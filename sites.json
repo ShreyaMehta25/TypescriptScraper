@@ -1,0 +1,18 @@
+[
+  {
+    "id": "gov-uk",
+    "url": "https://www.gov.uk/business-finance-support?types_of_support%5B%5D=grant",
+    "method": "scroll",
+    "output": "gov.md",
+    "scroll": true,
+    "day": 1
+  },
+  {
+    "id": "ukri",
+    "url": "https://www.ukri.org/opportunity/?keywords=&filter_council%5B%5D=814&filter_council%5B%5D=816&filter_council%5B%5D=818&filter_council%5B%5D=820&filter_council%5B%5D=822&filter_council%5B%5D=824&filter_council%5B%5D=826&filter_council%5B%5D=828&filter_council%5B%5D=830&filter_council%5B%5D=1730&filter_funding_type%5B%5D=16&filter_status%5B%5D=open&filter_status%5B%5D=upcoming&filter_order=publication_date&filter_submitted=true",
+    "method": "scroll",
+    "output": "ukri.md",
+    "scroll": true,
+    "day": 1
+  }
+]

@@ -1,0 +1,51 @@
+name: Daily Grant Scraper
+
+on:
+  schedule:
+    - cron: "0 9 1 2 *" # every day at 9 AM UTC
+  workflow_dispatch: # manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run scraper
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: npm start
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: grants-${{ github.run_number }}
+          path: |
+            output/json/all_grants.json
+            output/md/*.md
+          retention-days: 90
+
+      - name: Commit results to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Scrape results $(date +'%Y-%m-%d')"
+          git push
