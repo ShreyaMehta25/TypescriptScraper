@@ -5,7 +5,7 @@
     "name": "AD:VENTURE",
     "provider": "free business development support and guidance",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -36,7 +36,7 @@
     "name": "Aerospace Technology Institute (ATI) Non-CO2 Programme",
     "provider": "funding for research and technology development",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -67,7 +67,7 @@
     "name": "Aerospace Technology Institute (ATI) SME Programme",
     "provider": "funding for civil aerospace research and technology development",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -99,7 +99,7 @@
     "name": "Aerospace Technology Institute (ATI) Strategic Programme",
     "provider": "funding for research and technology development",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -130,7 +130,7 @@
     "name": "Better Business Finance - UK",
     "provider": "free, quick and easy access to a directory of approved finance suppliers",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -157,9 +157,9 @@
     "id": "6",
     "slug": "business-advice-and-training-east-of-england-and-london",
     "name": "Business advice and training - East of England and London",
-    "provider": "advice, workshops and loans",
+    "provider": "advice, workshops and loans for those looking to start a business",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "East of England and London",
     "amountMin": null,
     "amountMax": null,
@@ -189,7 +189,7 @@
     "name": "Business Boost Grants - Elmbridge",
     "provider": "grants for projects that help the Elmbridge economy",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "Elmbridge",
     "amountMin": null,
     "amountMax": null,
@@ -218,7 +218,7 @@
     "name": "Business loans, grants and funding - Scotland",
     "provider": "finder to help businesses based in Scotland find funding",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "Scotland",
     "amountMin": null,
     "amountMax": null,
@@ -247,20 +247,20 @@
     "name": "Central Bedfordshire Council Start-up Support Programme",
     "provider": "grants, free 1-2-1 business advice and skills training",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "Central Bedfordshire",
     "amountMin": null,
     "amountMax": null,
     "currency": "",
     "deadline": "",
     "daysRemaining": null,
-    "description": "A programme offering grants, free 1-2-1 business advice and skills training to anyone thinking of starting a business in Central Bedfordshire.",
+    "description": "A programme offering grants, free 1-2-1 business advice and skills training to anyone thinking of starting a business in Central Bedfordshire",
     "fullDescription": "Central Bedfordshire Council Start-up Support Programme A programme offering grants, free 1-2-1 business advice and skills training to anyone thinking of starting a business in Central Bedfordshire",
     "eligibilitySnapshot": "",
     "tags": [
       "grants",
-      "advice",
-      "training"
+      "business advice",
+      "skills training"
     ],
     "type": "Grant",
     "grantType": "",
@@ -273,43 +273,11 @@
   },
   {
     "id": "10",
-    "slug": "digital-enterprise",
-    "name": "Digital Enterprise",
-    "provider": "match-funded grants and impartial advice",
-    "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "West Yorkshire",
-    "amountMin": null,
-    "amountMax": null,
-    "currency": "",
-    "deadline": "",
-    "daysRemaining": null,
-    "description": "Match-funded grants and impartial advice for West Yorkshire SMEs to invest in digital solutions that will fuel business transformation.",
-    "fullDescription": "Digital Enterprise Match-funded grants and impartial advice for West Yorkshire SMEs to invest in digital solutions that will fuel business transformation.",
-    "eligibilitySnapshot": "",
-    "tags": [
-      "grants",
-      "advice",
-      "digital solutions"
-    ],
-    "type": "Grant",
-    "grantType": "",
-    "industry": [
-      "digital"
-    ],
-    "eligibility": [],
-    "whatItCovers": [],
-    "howToApply": [],
-    "applicationUrl": "",
-    "source": "gov-uk"
-  },
-  {
-    "id": "11",
     "slug": "drive35-funding-programme",
     "name": "DRIVE35 Funding Programme",
-    "provider": "capital and R&D funding",
+    "provider": "capital and R&D funding for the UK automotive industry",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -322,7 +290,7 @@
     "tags": [
       "capital",
       "R&D",
-      "automotive"
+      "automotive industry"
     ],
     "type": "Grant",
     "grantType": "",
@@ -336,12 +304,12 @@
     "source": "gov-uk"
   },
   {
-    "id": "12",
+    "id": "11",
     "slug": "duplex-investment-fund",
     "name": "Duplex Investment Fund",
-    "provider": "combined grants and loans",
+    "provider": "combined grants and loans towards capital purchases",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -366,13 +334,13 @@
     "source": "gov-uk"
   },
   {
-    "id": "13",
+    "id": "12",
     "slug": "enterprising-ashfield",
     "name": "Enterprising Ashfield",
-    "provider": "advice and guidance",
+    "provider": "advice and guidance for people starting or growing a business",
     "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "",
+    "countryCode": "uk",
+    "region": "Ashfield",
     "amountMin": null,
     "amountMax": null,
     "currency": "",
@@ -395,12 +363,12 @@
     "source": "gov-uk"
   },
   {
-    "id": "14",
+    "id": "13",
     "slug": "financial-and-funded-support-nottingham-trent-university",
     "name": "Financial and Funded Support – Nottingham Trent University",
-    "provider": "range of support for businesses",
+    "provider": "a range of support for businesses in Nottinghamshire and Derbyshire",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "Nottinghamshire and Derbyshire",
     "amountMin": null,
     "amountMax": null,
@@ -424,12 +392,12 @@
     "source": "gov-uk"
   },
   {
-    "id": "15",
+    "id": "14",
     "slug": "funding-and-advice-for-space-services-uk",
     "name": "Funding and advice for space services - UK",
-    "provider": "funding, technical and business expertise",
+    "provider": "funding, technical and business expertise, networks and partnerships",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -456,12 +424,12 @@
     "source": "gov-uk"
   },
   {
-    "id": "16",
+    "id": "15",
     "slug": "gigabit-broadband-voucher-scheme-gbvs-uk",
     "name": "Gigabit Broadband Voucher Scheme (GBVS) - UK",
     "provider": "grant contribution to pay towards upgrading business broadband",
     "country": "United Kingdom",
-    "countryCode": "gb",
+    "countryCode": "uk",
     "region": "",
     "amountMin": null,
     "amountMax": null,
@@ -472,8 +440,9 @@
     "fullDescription": "Gigabit Broadband Voucher Scheme (GBVS) - UK Grant contribution to pay towards upgrading business broadband to a high-speed capable connection.",
     "eligibilitySnapshot": "",
     "tags": [
+      "grant",
       "broadband",
-      "grant"
+      "upgrading"
     ],
     "type": "Grant",
     "grantType": "",
@@ -485,7 +454,103 @@
     "source": "gov-uk"
   },
   {
+    "id": "16",
+    "slug": "great-ideas-york-and-north-yorkshire",
+    "name": "Great Ideas – York and North Yorkshire",
+    "provider": "fully funded innovation support programme",
+    "country": "United Kingdom",
+    "countryCode": "uk",
+    "region": "York and North Yorkshire",
+    "amountMin": 60000,
+    "amountMax": 60000,
+    "currency": "£",
+    "deadline": "",
+    "daysRemaining": null,
+    "description": "A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
+    "fullDescription": "Great Ideas – York and North Yorkshire A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
+    "eligibilitySnapshot": "",
+    "tags": [
+      "innovation",
+      "support",
+      "grants"
+    ],
+    "type": "Grant",
+    "grantType": "innovation grants",
+    "industry": [
+      "innovation"
+    ],
+    "eligibility": [],
+    "whatItCovers": [],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "gov-uk"
+  },
+  {
     "id": "17",
+    "slug": "cookies-on-gov-uk",
+    "name": "Cookies on GOV.UK",
+    "provider": "GOV.UK",
+    "country": "United Kingdom",
+    "countryCode": "uk",
+    "region": "",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "",
+    "deadline": "",
+    "daysRemaining": null,
+    "description": "We use some essential cookies to make this website work.",
+    "fullDescription": "We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.",
+    "eligibilitySnapshot": "",
+    "tags": [
+      "cookies",
+      "GOV.UK"
+    ],
+    "type": "Grant",
+    "grantType": "",
+    "industry": [],
+    "eligibility": [],
+    "whatItCovers": [],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "gov-uk"
+  },
+  {
+    "id": "18",
+    "slug": "uk-critical-minerals-projects",
+    "name": "Funding for UK critical minerals projects",
+    "provider": "Department for Business and Trade",
+    "country": "United Kingdom",
+    "countryCode": "uk",
+    "region": "",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "£",
+    "deadline": "",
+    "daysRemaining": null,
+    "description": "Funding for UK critical minerals projects",
+    "fullDescription": "Funding for UK critical minerals projects",
+    "eligibilitySnapshot": "",
+    "tags": [
+      "critical minerals",
+      "funding",
+      "UK"
+    ],
+    "type": "Grant",
+    "grantType": "",
+    "industry": [
+      "mining",
+      "energy"
+    ],
+    "eligibility": [],
+    "whatItCovers": [
+      "critical minerals projects"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "gov-uk"
+  },
+  {
+    "id": "19",
     "slug": "start-up-loan",
     "name": "Start Up Loan",
     "provider": "Government",
@@ -498,26 +563,33 @@
     "deadline": "",
     "daysRemaining": null,
     "description": "Apply for a government-backed Start Up Loan of £500 to £25,000 to start or grow your business.",
-    "fullDescription": "Start Up Loans are government-backed and charge a fixed interest rate of 7.5% per year. You can repay the loan over a period of 1 to 5 years.",
-    "eligibilitySnapshot": "You must live in the UK, be 18 or over, and have (or plan to start) a UK-based business that’s been fully trading for less than 5 years.",
+    "fullDescription": "Apply for a government-backed Start Up Loan of £500 to £25,000 to start or grow your business. Unlike a business loan, this is an unsecured personal loan. You’ll need to pass a credit check. You’ll get free support and guidance to help write your business plan, and successful applicants get up to 12 months of free mentoring.",
+    "eligibilitySnapshot": "You live in the UK, you’re 18 or over, and you have (or plan to start) a UK-based business that’s been fully trading for less than 5 years.",
     "tags": [
       "start-up",
       "loan",
       "government-backed",
-      "business"
+      "unsecured",
+      "personal",
+      "credit-check",
+      "free-support",
+      "business-plan",
+      "mentoring"
     ],
     "type": "Grant",
     "grantType": "Loan",
     "industry": [
-      "business"
+      "business",
+      "entrepreneurship"
     ],
     "eligibility": [
-      "You must live in the UK",
-      "You must be 18 or over",
-      "You must have (or plan to start) a UK-based business that’s been fully trading for less than 5 years"
+      "You live in the UK",
+      "You’re 18 or over",
+      "You have (or plan to start) a UK-based business that’s been fully trading for less than 5 years"
     ],
     "whatItCovers": [
-      "Starting or growing a business"
+      "Starting a business",
+      "Growing a business"
     ],
     "howToApply": [
       "Apply on the Start Up Loans website"
@@ -526,7 +598,203 @@
     "source": "gov-uk"
   },
   {
-    "id": "18",
+    "id": "20",
+    "slug": "sunderland-business-support-fund",
+    "name": "Sunderland Business Support Fund",
+    "provider": "HM Government",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "North East England",
+    "amountMin": 3000,
+    "amountMax": 6000,
+    "currency": "£",
+    "deadline": "null",
+    "daysRemaining": null,
+    "description": "Grants are available to support projects costing between £3,000 and £6,000 (excluding VAT). The Business Support Fund can cover up to 40% of eligible business spend.",
+    "fullDescription": "Grants are available to support projects costing between £3,000 and £6,000 (excluding VAT). The Business Support Fund can cover up to 40% of eligible business spend.",
+    "eligibilitySnapshot": "Available to support projects costing between £3,000 and £6,000 (excluding VAT)",
+    "tags": [
+      "grant",
+      "business",
+      "support",
+      "funding"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "business",
+      "industry"
+    ],
+    "eligibility": [
+      "Available to support projects costing between £3,000 and £6,000 (excluding VAT)"
+    ],
+    "whatItCovers": [
+      "projects costing between £3,000 and £6,000 (excluding VAT)"
+    ],
+    "howToApply": [
+      "null"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/sunderland-business-support-fund",
+    "source": "gov-uk"
+  },
+  {
+    "id": "21",
+    "slug": "horizon-europe-funding",
+    "name": "Horizon Europe funding",
+    "provider": "HM Government",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "null",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "null",
+    "deadline": "null",
+    "daysRemaining": null,
+    "description": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
+    "fullDescription": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
+    "eligibilitySnapshot": "Funding for research or innovation",
+    "tags": [
+      "funding",
+      "research",
+      "innovation"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "research",
+      "industry"
+    ],
+    "eligibility": [
+      "Funding for research or innovation"
+    ],
+    "whatItCovers": [
+      "research or innovation"
+    ],
+    "howToApply": [
+      "null"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/horizon-europe-funding",
+    "source": "gov-uk"
+  },
+  {
+    "id": "22",
+    "slug": "innovate-uk-business-growth",
+    "name": "Innovate UK Business Growth",
+    "provider": "HM Government",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "null",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "null",
+    "deadline": "null",
+    "daysRemaining": null,
+    "description": "Expert advice for businesses looking to commercialise new ideas and succeed in international markets",
+    "fullDescription": "Expert advice for businesses looking to commercialise new ideas and succeed in international markets",
+    "eligibilitySnapshot": "Expert advice for businesses looking to commercialise new ideas",
+    "tags": [
+      "advice",
+      "business",
+      "growth"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "business",
+      "industry"
+    ],
+    "eligibility": [
+      "Expert advice for businesses looking to commercialise new ideas"
+    ],
+    "whatItCovers": [
+      "expert advice for businesses looking to commercialise new ideas"
+    ],
+    "howToApply": [
+      "null"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/innovate-uk-business-growth",
+    "source": "gov-uk"
+  },
+  {
+    "id": "23",
+    "slug": "invest-in-nottingham",
+    "name": "Invest in - Nottingham",
+    "provider": "HM Government",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "East Midlands",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "null",
+    "deadline": "null",
+    "daysRemaining": null,
+    "description": "Support for businesses looking to relocate or expand in the Nottingham and Nottinghamshire area.",
+    "fullDescription": "Support for businesses looking to relocate or expand in the Nottingham and Nottinghamshire area.",
+    "eligibilitySnapshot": "Support for businesses looking to relocate or expand",
+    "tags": [
+      "support",
+      "business",
+      "growth"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "business",
+      "industry"
+    ],
+    "eligibility": [
+      "Support for businesses looking to relocate or expand"
+    ],
+    "whatItCovers": [
+      "support for businesses looking to relocate or expand"
+    ],
+    "howToApply": [
+      "null"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/invest-in-nottingham",
+    "source": "gov-uk"
+  },
+  {
+    "id": "24",
+    "slug": "made-smarter-west-of-england",
+    "name": "Made Smarter South West of England",
+    "provider": "HM Government",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "South West England",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "null",
+    "deadline": "null",
+    "daysRemaining": null,
+    "description": "Support and potential grants to help manufacturing SMEs adopt Industrial Digital Technologies (IDT) to enable their development and growth.",
+    "fullDescription": "Support and potential grants to help manufacturing SMEs adopt Industrial Digital Technologies (IDT) to enable their development and growth.",
+    "eligibilitySnapshot": "Support and potential grants to help manufacturing SMEs adopt Industrial Digital Technologies",
+    "tags": [
+      "support",
+      "grants",
+      "manufacturing"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "manufacturing",
+      "industry"
+    ],
+    "eligibility": [
+      "Support and potential grants to help manufacturing SMEs adopt Industrial Digital Technologies"
+    ],
+    "whatItCovers": [
+      "support and potential grants to help manufacturing SMEs adopt Industrial Digital Technologies"
+    ],
+    "howToApply": [
+      "null"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/made-smarter-west-of-england",
+    "source": "gov-uk"
+  },
+  {
+    "id": "25",
     "slug": "better-business-finance",
     "name": "Better Business Finance",
     "provider": "Department for Business and Trade",
@@ -569,7 +837,11 @@
       "Wholesale and retail"
     ],
     "eligibility": [
-      "For UK businesses"
+      "For UK businesses",
+      "0 to 9 employees",
+      "10 to 249 employees",
+      "250 to 500 employees",
+      "More than 500 employees"
     ],
     "whatItCovers": [
       "Access to finance providers",
@@ -584,7 +856,7 @@
     "source": "gov-uk"
   },
   {
-    "id": "19",
+    "id": "26",
     "slug": "civic-improvement-fund-ecif-elmbridge",
     "name": "Civic Improvement Fund (ECIF) - Elmbridge",
     "provider": "Elmbridge Borough Council",
@@ -596,9 +868,9 @@
     "currency": "£",
     "deadline": null,
     "daysRemaining": null,
-    "description": "Elmbridge-based businesses can apply for a one-off grant of up to 50% of the cost of business projects that benefit the local economy or attract the public to local services and amenities.",
-    "fullDescription": "Elmbridge-based businesses can apply for a one-off grant of up to 50% of the cost of business projects that benefit the local economy or attract the public to local services and amenities. The type of projects the scheme supports include: street furniture and street scene improvements, bringing a shop that has been empty for at least three months back into commercial use, improving shop fronts, learning and skills or training initiatives, initiatives to promote community improvement projects.",
-    "eligibilitySnapshot": "Elmbridge-based businesses, including start-ups and established businesses, can apply.",
+    "description": "Elmbridge-based businesses can apply for a one-off grant of up to 50% of the cost of business projects that benefit the local economy, attract the public to local services and amenities.",
+    "fullDescription": "Elmbridge-based businesses can apply for a one-off grant of up to 50% of the cost of business projects that benefit the local economy, attract the public to local services and amenities. The type of projects the scheme supports include: street furniture and street scene improvements, bringing a shop that has been empty for at least three months back into commercial use, improving shop fronts, learning and skills or training initiatives, initiatives to promote community improvement projects.",
+    "eligibilitySnapshot": "Elmbridge-based businesses, businesses in the Elmbridge area, including Claygate, Cobham, Molesey, Oxshott, Stoke D'Abernon, Long Ditton, Thames Ditton, Hinchley Wood, Walton on Thames, Weybridge",
     "tags": [
       "business",
       "finance",
@@ -612,96 +884,31 @@
       "Agriculture and food",
       "Business and finance",
       "Construction",
-      "Education and Health",
-      "Hospitality and catering",
-      "IT, digital and creative",
-      "Manufacturing",
-      "Mining",
-      "Real estate and property",
-      "Science and technology",
-      "Service industries",
-      "Transport and distribution",
-      "Travel and leisure",
-      "Utilities providers",
-      "Wholesale and retail"
+      "Education and Health"
     ],
     "eligibility": [
       "Elmbridge-based businesses",
-      "Start-ups and established businesses"
+      "businesses in the Elmbridge area"
     ],
     "whatItCovers": [
-      "Business projects that benefit the local economy or attract the public to local services and amenities"
+      "street furniture and street scene improvements",
+      "bringing a shop that has been empty for at least three months back into commercial use",
+      "improving shop fronts",
+      "learning and skills or training initiatives",
+      "initiatives to promote community improvement projects"
     ],
     "howToApply": [
-      "Apply on the Elmbridge Borough Council website"
+      "Apply for a one-off grant of up to 50% of the cost of business projects"
     ],
     "applicationUrl": "https://www.gov.uk/business-finance-support/civic-improvement-fund-ecif-elmbridge",
     "source": "gov-uk"
   },
   {
-    "id": "20",
-    "slug": "great-ideas-york-and-north-yorkshire",
-    "name": "Great Ideas – York and North Yorkshire",
-    "provider": "Department for Business and Trade",
-    "country": "UK",
-    "countryCode": "uk",
-    "region": "Yorkshire and the Humber",
-    "amountMin": null,
-    "amountMax": 60000,
-    "currency": "£",
-    "deadline": "2026-05-13T00:00:00Z",
-    "daysRemaining": null,
-    "description": "A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
-    "fullDescription": "A fully funded innovation support programme, with access to innovation grants of up to £60,000.",
-    "eligibilitySnapshot": "Businesses in York and North Yorkshire, at any stage, with an idea to: Develop a new product or service Improve processes or productivity Adopt new technology",
-    "tags": [
-      "innovation",
-      "support",
-      "funding"
-    ],
-    "type": "Grant",
-    "grantType": "Grant and Expertise and advice",
-    "industry": [
-      "Agriculture and food",
-      "Business and finance",
-      "Construction",
-      "Education and Health",
-      "Hospitality and catering",
-      "IT, digital and creative",
-      "Life Sciences",
-      "Manufacturing",
-      "Mining",
-      "Real estate and property",
-      "Science and technology",
-      "Service industries",
-      "Transport and distribution",
-      "Travel and leisure",
-      "Utilities providers",
-      "Wholesale and retail"
-    ],
-    "eligibility": [
-      "Businesses in York and North Yorkshire",
-      "Develop a new product or service",
-      "Improve processes or productivity",
-      "Adopt new technology"
-    ],
-    "whatItCovers": [
-      "Expert-led support to shape and test your idea",
-      "Help to assess innovation readiness and commercial potential",
-      "Tailored guidance and specialist advice",
-      "The chance to pitch for an innovation grant",
-      "Support to move from concept to delivery"
-    ],
-    "howToApply": [],
-    "applicationUrl": "",
-    "source": "gov-uk"
-  },
-  {
-    "id": "21",
+    "id": "27",
     "slug": "heritage-enterprise-he-uk",
     "name": "Heritage Enterprise (HE) - UK",
     "provider": "Department for Business and Trade",
-    "country": "UK",
+    "country": "United Kingdom",
     "countryCode": "gb",
     "region": "East Midlands, Eastern, London, North East and North West, Northern Ireland, Scotland, South East, South West, Wales, West Midlands, and Yorkshire and the Humber",
     "amountMin": 10000,
@@ -710,17 +917,16 @@
     "deadline": null,
     "daysRemaining": null,
     "description": "Funding to help restore neglected historic buildings and sites and put them to productive use.",
-    "fullDescription": "Funding to help restore neglected historic buildings and sites and put them to productive use. Organiser Heritage Lottery Fund Find out more on the Heritage Lottery Fund website",
+    "fullDescription": "Funding to help restore neglected historic buildings and sites and put them to productive use. From: Department for Business and Trade Published 20 March 2017 Last updated 19 February 2019 — See all updates Type of support: Finance and Grant Business stage: Not yet trading, Start-ups (1-2 years trading) and Established Industry: Agriculture and food, Business and finance, Construction, Education and Health Show 11 more Hospitality and catering, IT, digital and creative, Manufacturing, Mining, Real estate and property, Science and technology, Service industries, Transport and distribution, Travel and leisure, Utilities providers, and Wholesale and retail Number of employees: 0 to 9 employees, 10 to 249 employees, 250 to 500 employees and More than 500 employees Region: East Midlands, Eastern, London, North East and North West Show 7 more Northern Ireland, Scotland, South East, South West, Wales, West Midlands, and Yorkshire and the Humber How much you can get £10,000 to £10,000,000 Who it’s for Community organisations across the UK. What you can get Funding to help restore neglected historic buildings and sites and put them to productive use. Organiser Heritage Lottery Fund Find out more on the Heritage Lottery Fund website Updates to this page Published 20 March 2017 Last updated 19 February 2019 — Show all updates 19 February 2019 Grant amounts changed. 20 March 2017 First published. Contents Is this page useful? Maybe Yes this page is useful No this page is not useful Thank you for your feedback Report a problem with this page Help us improve GOV.UK Do not include personal or financial information like your National Insurance number or credit card details. This field is for robots only. Please leave blank What were you doing? What went wrong? Send Cancel Help us improve GOV.UK To help us improve GOV.UK, we’d like to know more about your visit today. Please fill in this survey (opens in a new tab and requires JavaScript). Cancel",
     "eligibilitySnapshot": "Community organisations across the UK.",
     "tags": [
       "heritage",
-      "enterprise",
+      "grant",
       "historic buildings",
-      "sites",
-      "community organisations"
+      "sites"
     ],
     "type": "Grant",
-    "grantType": "Finance and Grant",
+    "grantType": "Heritage Grant",
     "industry": [
       "Agriculture and food",
       "Business and finance",
@@ -739,77 +945,19 @@
       "Wholesale and retail"
     ],
     "eligibility": [
-      "Community organisations across the UK.",
-      "Not yet trading, Start-ups (1-2 years trading) and Established"
+      "Community organisations across the UK"
     ],
     "whatItCovers": [
-      "Funding to help restore neglected historic buildings and sites and put them to productive use."
+      "Funding to help restore neglected historic buildings and sites and put them to productive use"
     ],
-    "howToApply": [],
+    "howToApply": [
+      "Apply if you are a community organisation across the UK"
+    ],
     "applicationUrl": "https://www.gov.uk/business-finance-support/heritage-enterprise-he-uk",
     "source": "gov-uk"
   },
   {
-    "id": "22",
-    "slug": "horizon-europe-funding",
-    "name": "Horizon Europe Funding",
-    "provider": "Department for Business and Trade",
-    "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "",
-    "amountMin": null,
-    "amountMax": null,
-    "currency": "",
-    "deadline": "",
-    "daysRemaining": null,
-    "description": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security.",
-    "fullDescription": "Funding for research or innovation that's ground breaking, improves European research standards or responds to challenges like climate change or food security. From: Department for Business and Trade Published 29 September 2021 Last updated 14 April 2026 — See all updates Type of support: Finance, Grant and Expertise and advice Business stage: Not yet trading, Start-ups (1-2 years trading) and Established Industry: Agriculture and food, Education, Health, Life Sciences and Manufacturing Show 4 more Science and technology, Service industries, Transport and distribution, and Utilities providers Number of employees: 0 to 9 employees, 10 to 249 employees, 250 to 500 employees and More than 500 employees Region: East Midlands, Eastern, London, North East and North West Show 7 more Northern Ireland, Scotland, South East, South West, Wales, West Midlands, and Yorkshire and the Humber Department for Science, Innovation and Technology We are delighted that on 4 December 2023, the UK and EU have signed our bespoke new agreement, finalising the UK’s association to Horizon Europe and Copernicus. UK researchers can now bid into Horizon, certain that all successful UK applicants will be covered through the UK’s association (or through the guarantee) for the remainder of the programme. All calls in Work Programme 2024 will be covered by association and the UK guarantee scheme will be extended to cover all calls under Work Programme 2023. For more information, please read: final step completed to associate the UK to Horizon Europe the EU Research and Innovation Programme UK joins Horizon Europe under a new bespoke deal joint statement by the European Commission and the UK government on the UK’s association to Horizon Europe and Copernicus guidance for applicants on the new UK agreement with the EU on Horizon Europe and Copernicus Who it’s for Horizon Europe is open to all types of organisations across Europe and the world. Horizon Europe provides funding for research and innovation across 3 core pillars: Pillar 1 – Excellent Science Pillar 2 – Global Challenges and European Industrial Competitiveness Pillar 3 – Innovative Europe Some funding calls allow a single organisation to apply but many require a team of partner organisations to form a consortium. Usually, the consortium must be made up of at least 3 organisations from different countries. Get in touch with your UK national contact point for advice on: how to apply for Horizon Europe funding how to form a consortium What you can get funding for You may be able to get Horizon Europe funding for projects which: involve ground-breaking research or new technologies improve research training and development, or research infrastructure create growth in sectors like advanced manufacturing, materials, biotechnology, information and communication technology, nanotechnology and space increase private investment in research respond to challenges like climate change, food security, or healthcare for an ageing population Find further advice and guidance on applying to Horizon Europe. Find your UK National Contact Point (NCP) for advice Support for all sectors Cooperation in Science and Technology (COST) Hazel Dalgard Email: cost@ukro.ac.uk Cross Cutting Support and General Advice on Horizon Europe Perry Guess Telephone: +44 (0)7885 677 606 Email: ncp-crosscutting@iuk.ukri.org Legal and financial advice for all sectors Chris Young Telephone: +44 (0)7872 829 176 Email: ncp-rules@iuk.ukri.org European Research Council ERC helpdesk Dr Antonino Puglisi Telephone: +44 (0)7745 105 383 Email: erc-uk@ukro.ac.uk Marie Skłodowska-Curie Actions (MSCA) Raquel Meco Melguizo Telephone: +44 (0)7542 509 127 Email: mariecurie-uk@ukro.ac.uk Research infrastructures Pawel Puczkarski Email: rincpuk@stfc.ac.uk European Innovation Council (EIC) and European Innovation Ecosystem (EIE) Claire Griffin Email: ncp-eic-transition-accelerator@iuk.ukri.org Widening participation among EU states Hazel Dalgardi Email: widera-uk@ukro.ac.uk European Institute of Innovation & Technology (EIT) Teresa Arumardi Telephone: +44 (0)7795 641 229 Email: ncp-eit@iuk.ukri.org New European Bauhaus Hazel Dalgard Email: ncp-bauhaus@ukro.ac.uk Support within different sectors Civil Security For Society Melanie Maxwell Telephone: +44 (0)7711 989 615 Email: NCP-Security@iuk.ukri.org Climate, Energy and Mobility Cinzia Porcedda (contact for climate) Telephone: +44 (0)7701 258 024 Email: ncp-climate@iuk.ukri.org Conall McGinley (contact for energy) Telephone: +44 (0)7517 829 835 Email: ncp-energy@iuk.ukri.org Louise Mothersole (contact for mobility) Telephone: +44 (0)7584 154 679 Email: ncp-mobility@iuk.ukri.org Culture, Creativity and Inclusive Society Iris Tsang Email: ccisncp@esrc.ukri.org Digital, Industry and Space Craig Sharp (contact for digital) Telephone: +44 (0)7920 750 631 Email: ncp-digital@iuk.ukri.org Dr Eleni Bohacek Telephone: +44 (0)7701 263 152 Email: ncp-digital@iuk.ukri.org Craig Sharp (contact for space) Telephone: +44 (0)7468 715 507 Email: ncp-space@iuk.ukri.org Anshumaan Ayyangar (contact for industry) Telephone: +44 (0)7564 048 887 Email: ncp-industry@iuk.ukri.org Food security, Bioeconomy, Natural Resources, Agriculture and Environment Kerry Young (contact for food, natural resources and agriculture) Telephone: +44 (0)788 9108 885 Email: ncp-food-bio-marine@iuk.ukri.org Kerry Young (contact for environment) Telephone: +44 (0)788 9108 885 Email: ncp-food-bio-marine@iuk.ukri.org Paul Bello (contact for bioeconomy) Telephone: +44 (0)7769 886 375 Email: ncp-food-bio-marine@iuk.ukri.org Health Cluster and the Cancer Mission Ioanna Kostaki (contact for academia) Telephone: +44 (0)7542 505 302 Email: ncp@mrc.ukri.org Jo Frost (contact for industry) Telephone: +44 (0)7597 526 207 Email: ncp-health@iuk.ukri.org If you are from another sector (For example, Charity, Government, NHS) copy both Ioanna and Jo into your email. Support for researchers and innovators based in the devolved administrations Researchers and Innovators based in Northern Ireland Find your NICP contact for Northern Ireland. Researchers and Innovators based in Scotland Scottish European funding enquiry form. Researchers and Innovators based in Wales Baudewijn Morgan Telephone: +44 (0)7825 676 660 Email: horizoneurope@gov.wales Organiser European Commission Find out more on the European Commission website Updates to this page Published 29 September 2021 Last updated 14 April 2026 + show all updates 14 April 2026 'Widening participation among EU states' contact point changed to Hazel Dalgard. 25 March 2026 Alice Chadwick has replaced by Pawel Puczkarsk. Marzena Bien has replaced Iris Tsang. 2 March 2026 Laura Joiner has been removed as the European Research Council contact. 10 February 2026 A new contact 'Cooperation in Science and Technology (COST)' has been added to the ‘Support for all sectors’ section. 30 January 2026 Updated contact details for Ioanna Kostaki. 6 November 2025 National Contact Points (NCPs) for Marie Skłodowska-Curie Actions (MSCA), Civil Security, Food security, Bioeconomy, Natural Resources, Agriculture and Environment updated. 21 March 2025 UK National Contact Points (NCPs) added for 'Cross Cutting Support and General Advice on Horizon Europe', and 'New European Bauhaus' under Support for all sectors heading. 4 December 2023 Update reflecting the UK’s association to the Horizon and Copernicus programmes being officially sealed today 7 September 2023 The UK agreed a deal to associate to Horizon Europe on 7 September 2023 7 September 2023 The UK agreed a deal to associate to Horizon Europe on 6 September 2023 16 August 2023 Updated department contacts and added details for devolved administrations 4 May 2022 Added contact number for Energy. 3 May 2022 Contacts for EIC added, contacts for Energy, Health and Industry amended. 8 March 2022 Addition of information link to guarantee, amendment of eligibility criteria, amendments to EIT and Energy contacts. 13 December 2021 Updated contact for Legal and telephone number added for Climate NCP. Innovate UK email addresses updated. 5 October 2021 Revised some contact point names and contacts. 30 September 2021 Major updates to contact points and individuals. 29 September 2021 First published. Contents Is this page useful? Maybe Yes this page is useful No this page is not useful Thank you for your feedback Report a problem with this page Help us improve GOV.UK Do not include personal or financial information like your National Insurance number or credit card details. This field is for robots only. Please leave blank What were you doing? What went wrong? Send Cancel Help us improve GOV.UK To help us improve GOV.UK, we’d like to know more about your visit today. Please fill in this survey (opens in a new tab and requires JavaScript). Cancel",
-    "eligibilitySnapshot": "Horizon Europe is open to all types of organisations across Europe and the world.",
-    "tags": [
-      "Horizon Europe",
-      "research",
-      "innovation",
-      "funding"
-    ],
-    "type": "Grant",
-    "grantType": "Horizon Europe",
-    "industry": [
-      "Agriculture and food",
-      "Education",
-      "Health",
-      "Life Sciences",
-      "Manufacturing",
-      "Science and technology",
-      "Service industries",
-      "Transport and distribution",
-      "Utilities providers"
-    ],
-    "eligibility": [
-      "Not yet trading",
-      "Start-ups (1-2 years trading)",
-      "Established",
-      "0 to 9 employees",
-      "10 to 249 employees",
-      "250 to 500 employees",
-      "More than 500 employees"
-    ],
-    "whatItCovers": [
-      "ground-breaking research or new technologies",
-      "research training and development",
-      "research infrastructure",
-      "growth in sectors like advanced manufacturing, materials, biotechnology, information and communication technology, nanotechnology and space",
-      "private investment in research",
-      "challenges like climate change, food security, or healthcare for an ageing population"
-    ],
-    "howToApply": [
-      "Get in touch with your UK national contact point for advice on: how to apply for Horizon Europe funding how to form a consortium"
-    ],
-    "applicationUrl": "",
-    "daysToDeadline": null,
-    "source": "gov-uk"
-  },
-  {
-    "id": "23",
+    "id": "28",
     "slug": "innovate-uk-grant-funding",
     "name": "Innovate UK Grant Funding",
     "provider": "Department for Business and Trade",
@@ -823,13 +971,13 @@
     "daysRemaining": null,
     "description": "Offers grants of between £25,000 and £10 million.",
     "fullDescription": "Grant funding is available for all sizes of business, from new companies to large multi-nationals. Opportunities may be: Themed, to fit with one of the Industrial Strategy’s grand challenge areas: artificial intelligence and data ageing society clean growth future of mobility Or open to any type of innovation or technology project.",
-    "eligibilitySnapshot": "All sizes of business, from new companies to large multi-nationals",
+    "eligibilitySnapshot": "For UK-based businesses, from start-ups to large multi-nationals",
     "tags": [
       "grant",
       "funding",
       "innovation",
       "business",
-      "growth"
+      "uk"
     ],
     "type": "Grant",
     "grantType": "Grant funding",
@@ -845,122 +993,23 @@
       "Transport and distribution"
     ],
     "eligibility": [
-      "Business stage: Start-ups (1-2 years trading) and Established",
-      "Number of employees: 0 to 9 employees, 10 to 249 employees, 250 to 500 employees and More than 500 employees"
+      "UK-based businesses",
+      "From start-ups to large multi-nationals"
     ],
     "whatItCovers": [
-      "Exploiting innovation, intellectual property, and connections in the UK and abroad",
+      "Exploiting innovation",
+      "Intellectual property",
+      "Connections in the UK and abroad",
       "Entering new markets at home and abroad",
-      "Accessing funding and finance and getting investment ready"
+      "Accessing funding and finance",
+      "Getting investment ready"
     ],
-    "howToApply": null,
-    "applicationUrl": null,
+    "howToApply": [],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/innovate-uk-grant-funding-innovation-loans-and-expert-support",
     "source": "gov-uk"
   },
   {
-    "id": "24",
-    "slug": "innovate-uk-business-growth",
-    "name": "Innovate UK Business Growth",
-    "provider": "Department for Business and Trade",
-    "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "East Midlands, Eastern, London, North East and North West, South East, South West, West Midlands, and Yorkshire and the Humber",
-    "amountMin": null,
-    "amountMax": null,
-    "currency": "",
-    "deadline": null,
-    "daysRemaining": null,
-    "description": "You’ll get funded, bespoke support, to help grow your business, such as: exploiting innovation, intellectual property, and connections in the UK and abroad entering new markets at home and abroad accessing funding and finance and getting investment ready",
-    "fullDescription": "You’ll get funded, bespoke support, to help grow your business, such as: exploiting innovation, intellectual property, and connections in the UK and abroad entering new markets at home and abroad accessing funding and finance and getting investment ready",
-    "eligibilitySnapshot": "Start-ups (1-2 years trading) and Established",
-    "tags": [
-      "grant",
-      "funding",
-      "innovation",
-      "business",
-      "growth"
-    ],
-    "type": "Grant",
-    "grantType": "Grant funding",
-    "industry": [
-      "Agriculture and food",
-      "Business and finance",
-      "Construction",
-      "Education and Health",
-      "Hospitality and catering",
-      "IT, digital and creative",
-      "Life Sciences",
-      "Manufacturing",
-      "Mining",
-      "Real estate and property",
-      "Science and technology",
-      "Service industries",
-      "Transport and distribution",
-      "Travel and leisure",
-      "Utilities providers",
-      "Wholesale and retail"
-    ],
-    "eligibility": [
-      "Business stage: Start-ups (1-2 years trading) and Established",
-      "Number of employees: 0 to 9 employees and 10 to 249 employees"
-    ],
-    "whatItCovers": [
-      "Exploiting innovation, intellectual property, and connections in the UK and abroad",
-      "Entering new markets at home and abroad",
-      "Accessing funding and finance and getting investment ready"
-    ],
-    "howToApply": null,
-    "applicationUrl": null,
-    "source": "gov-uk"
-  },
-  {
-    "id": "25",
-    "slug": "innovation-loans",
-    "name": "Innovation Loans",
-    "provider": "Department for Business and Trade",
-    "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "East Midlands, Eastern, London, North East and North West, South East, South West, West Midlands, and Yorkshire and the Humber",
-    "amountMin": 100000,
-    "amountMax": 1000000,
-    "currency": "£",
-    "deadline": null,
-    "daysRemaining": null,
-    "description": "Offers innovation loans of between £100,000 and £1 million.",
-    "fullDescription": "Innovation loans are for UK-based SMEs only to carry out late-stage research and development projects.",
-    "eligibilitySnapshot": "UK-based SMEs only",
-    "tags": [
-      "loan",
-      "innovation",
-      "business",
-      "growth"
-    ],
-    "type": "Loan",
-    "grantType": "Innovation loans",
-    "industry": [
-      "Agriculture and food",
-      "Construction",
-      "Health",
-      "IT, digital and creative",
-      "Life Sciences",
-      "Manufacturing",
-      "Science and technology",
-      "Service industries",
-      "Transport and distribution"
-    ],
-    "eligibility": [
-      "Business stage: Start-ups (1-2 years trading) and Established",
-      "Number of employees: 0 to 9 employees, 10 to 249 employees, 250 to 500 employees and More than 500 employees"
-    ],
-    "whatItCovers": [
-      "Late-stage research and development projects"
-    ],
-    "howToApply": null,
-    "applicationUrl": null,
-    "source": "gov-uk"
-  },
-  {
-    "id": "26",
+    "id": "29",
     "slug": "invest-in-nottingham",
     "name": "Invest in Nottingham",
     "provider": "Department for Business and Trade",
@@ -1002,7 +1051,9 @@
       "Wholesale and retail"
     ],
     "eligibility": [
-      "Businesses looking to relocate or expand in the Nottingham and Nottinghamshire area"
+      "Not yet trading",
+      "Start-ups (1-2 years trading)",
+      "Established"
     ],
     "whatItCovers": [
       "advice about specific business locations and properties",
@@ -1015,13 +1066,13 @@
       "continuing business support"
     ],
     "howToApply": [
-      "Contact the provider to discuss your proposal with an Invest to Grow Fund Manager prior to submission"
+      ""
     ],
     "applicationUrl": "https://www.gov.uk/business-finance-support/invest-in-nottingham",
     "source": "gov-uk"
   },
   {
-    "id": "27",
+    "id": "30",
     "slug": "invest-to-grow",
     "name": "Invest to Grow",
     "provider": "Department for Business and Trade",
@@ -1034,7 +1085,7 @@
     "deadline": null,
     "daysRemaining": null,
     "description": "Grants and loans of between £15,000 and £250,000.",
-    "fullDescription": "Grants and loans of between £15,000 and £250,000.",
+    "fullDescription": "Grants and loans of between £15,000 and £250,000. Invest to Grow does not support any companies which are business to consumer (B2C) focused, or in the professional services, farm-based agriculture and retail sectors.",
     "eligibilitySnapshot": "Small and medium-sized enterprises (SMEs), large enterprises, sole traders and partnerships located in the East Midlands",
     "tags": [
       "business",
@@ -1056,10 +1107,11 @@
       "Transport and distribution"
     ],
     "eligibility": [
-      "Small and medium-sized enterprises (SMEs), large enterprises, sole traders and partnerships located in the East Midlands"
+      "Start-ups (1-2 years trading)",
+      "Established"
     ],
     "whatItCovers": [
-      "Grants and loans"
+      "grants and loans"
     ],
     "howToApply": [
       "Complete the online expression of interest form, or contact the provider to discuss your proposal with an Invest to Grow Fund Manager prior to submission"
@@ -1068,7 +1120,7 @@
     "source": "gov-uk"
   },
   {
-    "id": "28",
+    "id": "31",
     "slug": "key-fund-midlands-and-the-north-of-england",
     "name": "Key Fund - Midlands and the North of England",
     "provider": "Department for Business and Trade",
@@ -1105,21 +1157,705 @@
       "Service industries"
     ],
     "eligibility": [
-      "Social Enterprises in the North and the Midlands"
+      "Start-ups (1-2 years trading)",
+      "Established"
     ],
     "whatItCovers": [
+      "grants and loans",
       "restoring a derelict building",
       "buying equipment",
       "meeting start-up costs"
     ],
     "howToApply": [
-      "Find out more in the Key Fund website"
+      ""
     ],
     "applicationUrl": "https://www.gov.uk/business-finance-support/key-fund-midlands-and-the-north-of-england",
     "source": "gov-uk"
   },
   {
-    "id": "29",
+    "id": "32",
+    "slug": "made-smarter-west-of-england",
+    "name": "Made Smarter West of England",
+    "provider": "Department for Business and Trade",
+    "country": "England",
+    "countryCode": "gb",
+    "region": "South West",
+    "amountMin": 10000,
+    "amountMax": 20000,
+    "currency": "£",
+    "deadline": null,
+    "daysRemaining": null,
+    "description": "Up to £20,000, 50% match funded. Eligible businesses will be offered a one-to-one Digital Acceleration session with sector experts to establish a bespoke support package.",
+    "fullDescription": "Up to £20,000, 50% match funded. Eligible businesses will be offered a one-to-one Digital Acceleration session with sector experts to establish a bespoke support package. Support packages might include: grant funding to implement IDT hardware or software digital leadership training to upskill staff to deliver a digital technology strategy student internships The support package offered is determined through a bespoke Digital Roadmap created for the SME as part of their one-to-one session.",
+    "eligibilitySnapshot": "Profit-making manufacturing SMEs based in Bath and North East Somerset, Bristol, Bournemouth, Christchurch and Poole, Cornwall and Isles of Scilly, Devon and Torbay, Dorset, Gloucestershire, North Somerset, Plymouth, Somerset, South Gloucestershire, and Swindon and Wiltshire.",
+    "tags": [
+      "manufacturing",
+      "SMEs",
+      "digital technologies"
+    ],
+    "type": "Grant",
+    "grantType": "match funded",
+    "industry": [
+      "manufacturing"
+    ],
+    "eligibility": [
+      "Profit-making manufacturing SMEs based in Bath and North East Somerset, Bristol, Bournemouth, Christchurch and Poole, Cornwall and Isles of Scilly, Devon and Torbay, Dorset, Gloucestershire, North Somerset, Plymouth, Somerset, South Gloucestershire, and Swindon and Wiltshire."
+    ],
+    "whatItCovers": [
+      "grant funding to implement IDT hardware or software",
+      "digital leadership training to upskill staff to deliver a digital technology strategy",
+      "student internships"
+    ],
+    "howToApply": [
+      "one-to-one Digital Acceleration session with sector experts"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/made-smarter-west-of-england",
+    "source": "gov-uk"
+  },
+  {
+    "id": "33",
+    "slug": "northern-ireland-business-support-finder",
+    "name": "Northern Ireland Business Support Finder",
+    "provider": "Department for Business and Trade",
+    "country": "Northern Ireland",
+    "countryCode": "gb",
+    "region": "Northern Ireland",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "",
+    "deadline": null,
+    "daysRemaining": null,
+    "description": "Support may be available in a number of forms, including financial assistance and free or subsidised advice services.",
+    "fullDescription": "Support may be available in a number of forms, including financial assistance and free or subsidised advice services. There may also be specific initiatives to help with starting up, managing or growing a business.",
+    "eligibilitySnapshot": "Agriculture and food, Business and finance, Construction, Education and Health, Hospitality and catering, IT, digital and creative, Life Sciences, Manufacturing, Mining, Real estate and property, Science and technology, Service industries, Transport and distribution, Travel and leisure, Utilities providers, and Wholesale and retail.",
+    "tags": [
+      "business support",
+      "financial assistance",
+      "advice services"
+    ],
+    "type": "Grant",
+    "grantType": "",
+    "industry": [
+      "Agriculture and food",
+      "Business and finance",
+      "Construction",
+      "Education and Health",
+      "Hospitality and catering",
+      "IT, digital and creative",
+      "Life Sciences",
+      "Manufacturing",
+      "Mining",
+      "Real estate and property",
+      "Science and technology",
+      "Service industries",
+      "Transport and distribution",
+      "Travel and leisure",
+      "Utilities providers",
+      "Wholesale and retail"
+    ],
+    "eligibility": [
+      "Agriculture and food, Business and finance, Construction, Education and Health, Hospitality and catering, IT, digital and creative, Life Sciences, Manufacturing, Mining, Real estate and property, Science and technology, Service industries, Transport and distribution, Travel and leisure, Utilities providers, and Wholesale and retail."
+    ],
+    "whatItCovers": [
+      "financial assistance",
+      "free or subsidised advice services"
+    ],
+    "howToApply": [
+      "searchable database"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/northern-ireland-business-support-finder",
+    "source": "gov-uk"
+  },
+  {
+    "id": "34",
+    "slug": "business-support-service-north-east-england",
+    "name": "PNE Enterprise - business support service - North East England",
+    "provider": "Department for Business and Trade",
+    "country": "England",
+    "countryCode": "gb",
+    "region": "North East",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "",
+    "deadline": null,
+    "daysRemaining": null,
+    "description": "You can get a range of support to help your business develop, including: one to one mentoring and advice start-up business courses events online resources grant and loans",
+    "fullDescription": "You can get a range of support to help your business develop, including: one to one mentoring and advice start-up business courses events online resources grant and loans Organiser Project North East (PNE) Enterprise",
+    "eligibilitySnapshot": "People starting and running a business based in Tyneside, Northumberland or County Durham.",
+    "tags": [
+      "business support",
+      "mentoring",
+      "advice",
+      "start-up business courses",
+      "events",
+      "online resources",
+      "grant",
+      "loans"
+    ],
+    "type": "Grant",
+    "grantType": "",
+    "industry": [
+      "Agriculture and food",
+      "Business and finance",
+      "Construction",
+      "Education and Health",
+      "Hospitality and catering",
+      "IT, digital and creative",
+      "Life Sciences",
+      "Manufacturing",
+      "Mining",
+      "Real estate and property",
+      "Science and technology",
+      "Service industries",
+      "Transport and distribution",
+      "Travel and leisure",
+      "Utilities providers",
+      "Wholesale and retail"
+    ],
+    "eligibility": [
+      "People starting and running a business based in Tyneside, Northumberland or County Durham."
+    ],
+    "whatItCovers": [
+      "one to one mentoring and advice",
+      "start-up business courses",
+      "events",
+      "online resources",
+      "grant",
+      "loans"
+    ],
+    "howToApply": [
+      "one to one mentoring and advice"
+    ],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/business-support-service-north-east-england",
+    "source": "gov-uk"
+  },
+  {
+    "id": "35",
+    "slug": "repair-grants-for-heritage-at-risk-england",
+    "name": "Repair Grants for Heritage at Risk - England",
+    "provider": "Department for Business and Trade",
+    "country": "England",
+    "countryCode": "gb",
+    "region": "East Midlands, Eastern, London, North East and North West, South East, South West, West Midlands, and Yorkshire and the Humber",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "£",
+    "deadline": null,
+    "daysRemaining": null,
+    "description": "Grants for the urgent repair and conservation of historic and listed buildings, scheduled monuments, designed landscapes, registered parks and gardens.",
+    "fullDescription": "Grants for the urgent repair and conservation of historic and listed buildings, scheduled monuments, designed landscapes, registered parks and gardens. You can also get grants for project development work, such as surveys and investigations, that enable repairs and improve future management.",
+    "eligibilitySnapshot": "Open to trading businesses and social enterprises.",
+    "tags": [
+      "heritage",
+      "at-risk",
+      "historic-buildings",
+      "monuments",
+      "landscapes",
+      "parks",
+      "gardens"
+    ],
+    "type": "Grant",
+    "grantType": null,
+    "industry": [
+      "Agriculture and food",
+      "Business and finance",
+      "Construction",
+      "Education and Health",
+      "Hospitality and catering",
+      "IT, digital and creative",
+      "Manufacturing",
+      "Mining",
+      "Real estate and property",
+      "Science and technology",
+      "Service industries",
+      "Transport and distribution",
+      "Travel and leisure",
+      "Utilities providers",
+      "Wholesale and retail"
+    ],
+    "eligibility": [
+      "Trading businesses and social enterprises",
+      "Planning to grow with a particular focus on applications demonstrating job creation and safeguarding of existing jobs"
+    ],
+    "whatItCovers": [
+      "Urgent repair and conservation of historic and listed buildings, scheduled monuments, designed landscapes, registered parks and gardens",
+      "Project development work, such as surveys and investigations"
+    ],
+    "howToApply": [],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/repair-grants-for-heritage-at-risk-england",
+    "source": "gov-uk"
+  },
+  {
+    "id": "36",
+    "slug": "the-hive-north-somerset",
+    "name": "The Hive - North Somerset",
+    "provider": "Department for Business and Trade",
+    "country": "England",
+    "countryCode": "gb",
+    "region": "South West",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "£",
+    "deadline": null,
+    "daysRemaining": null,
+    "description": "Workspace with on-site business support in Weston-super-Mare.",
+    "fullDescription": "Workspace with on-site business support in Weston-super-Mare. This scheme offers: a flexible workspace area with wifi a reception area for meeting clients on-site business support.",
+    "eligibilitySnapshot": "Open to trading businesses and social enterprises.",
+    "tags": [
+      "business-support",
+      "north-somerset",
+      "weston-super-mare"
+    ],
+    "type": "Grant",
+    "grantType": null,
+    "industry": [
+      "Construction",
+      "Education",
+      "Hospitality and catering",
+      "IT, digital and creative",
+      "Service industries",
+      "Transport and distribution"
+    ],
+    "eligibility": [
+      "Trading businesses and social enterprises"
+    ],
+    "whatItCovers": [
+      "Flexible workspace area with wifi",
+      "Reception area for meeting clients",
+      "On-site business support"
+    ],
+    "howToApply": [],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/the-hive-north-somerset",
+    "source": "gov-uk"
+  },
+  {
+    "id": "37",
+    "slug": "tourism-grants-eden",
+    "name": "Tourism Grants - Eden",
+    "provider": "Department for Business and Trade",
+    "country": "United Kingdom",
+    "countryCode": "uk",
+    "region": "North West",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "£",
+    "deadline": null,
+    "daysRemaining": null,
+    "description": "Small grants are available for projects that aim to generate tourism and help the Eden economy.",
+    "fullDescription": "Small grants to help fund projects that will generate tourism and similar economic benefits in Eden.",
+    "eligibilitySnapshot": "Businesses based in the district of Eden are eligible.",
+    "tags": [
+      "tourism",
+      "grants",
+      "eden"
+    ],
+    "type": "Grant",
+    "grantType": "Small grants",
+    "industry": [
+      "Hospitality and catering",
+      "Travel and leisure"
+    ],
+    "eligibility": [
+      "Businesses based in the district of Eden are eligible."
+    ],
+    "whatItCovers": [
+      "projects that aim to generate tourism and help the Eden economy"
+    ],
+    "howToApply": [],
+    "applicationUrl": "https://www.gov.uk/business-finance-support/tourism-grants-eden",
+    "source": "gov-uk"
+  },
+  {
+    "id": "38",
+    "slug": "EPSRC-Strategic-Infrastructure-2026",
+    "name": "EPSRC Strategic Infrastructure 2026",
+    "provider": "Engineering and Physical Sciences Research Council (EPSRC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 400000,
+    "amountMax": 400000,
+    "currency": "£",
+    "deadline": "2026-07-07T09:00:00Z",
+    "daysRemaining": null,
+    "description": "Apply for funding to purchase strategic infrastructure that will improve UK scientific capability and enable cutting-edge research of high priority to EPSRC.",
+    "fullDescription": "This funding opportunity is for invited applicants only. You must be based at a UK research organisation eligible for EPSRC funding.",
+    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for EPSRC funding.",
+    "tags": [
+      "EPSRC",
+      "Strategic Infrastructure",
+      "2026"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research"
+    ],
+    "eligibility": [
+      "You must be based at a UK research organisation eligible for EPSRC funding."
+    ],
+    "whatItCovers": [
+      "Purchase of strategic infrastructure"
+    ],
+    "howToApply": [
+      "This funding opportunity is for invited applicants only."
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "39",
+    "slug": "DRIVE35-Innovation-Fund",
+    "name": "DRIVE35 innovation fund",
+    "provider": "Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 20000000,
+    "currency": "£",
+    "deadline": "2026-09-16T11:00:00Z",
+    "daysRemaining": null,
+    "description": "Collaborate three UK registered organisations can apply for a share of up to £20 million for late stage collaborative research and development projects.",
+    "fullDescription": "Projects will support the UK’s transition to zero emission vehicles and a pathway to a net zero automotive industry. DRIVE35 (Driving Research and Investment in Vehicle Electrification) is a Department for Business and Trade led programme.",
+    "eligibilitySnapshot": "Collaborate three UK registered organisations",
+    "tags": [
+      "DRIVE35",
+      "Innovation Fund",
+      "Zero Emission Vehicles"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Automotive",
+      "Research"
+    ],
+    "eligibility": [
+      "Collaborate three UK registered organisations"
+    ],
+    "whatItCovers": [
+      "Late stage collaborative research and development projects"
+    ],
+    "howToApply": [
+      "Collaborate three UK registered organisations"
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "40",
+    "slug": "Scaling-Performance-of-Quantum-Computing-Hardware",
+    "name": "Scaling performance of quantum computing hardware: CR&D",
+    "provider": "Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 33000000,
+    "currency": "£",
+    "deadline": "2026-09-18T11:00:00Z",
+    "daysRemaining": null,
+    "description": "UK registered organisations can apply for a share of up to £33 million to develop device level hardware and associated software to meet the scale, programmability, and runtime performance needs of universal fault tolerant quantum computers.",
+    "fullDescription": "",
+    "eligibilitySnapshot": "UK registered organisations",
+    "tags": [
+      "Quantum Computing",
+      "CR&D"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research",
+      "Technology"
+    ],
+    "eligibility": [
+      "UK registered organisations"
+    ],
+    "whatItCovers": [
+      "Development of device level hardware and associated software"
+    ],
+    "howToApply": [
+      "UK registered organisations"
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "41",
+    "slug": "Doctoral-Focal-Awards-in-Data-Intensive-Sciences",
+    "name": "Doctoral focal awards in data-intensive sciences",
+    "provider": "Science and Technology Facilities Council (STFC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 10500000,
+    "amountMax": 2100000,
+    "currency": "£",
+    "deadline": "2026-09-16T16:00:00Z",
+    "daysRemaining": null,
+    "description": "Apply for funding to deliver STFC’s doctoral focal awards in the field of data-intensive sciences.",
+    "fullDescription": "This funding opportunity builds on our previous investment, providing students with skills and training to enable careers in academia or industry. You must be based at a UK research organisation eligible for STFC funding.",
+    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for STFC funding.",
+    "tags": [
+      "Doctoral Focal Awards",
+      "Data-Intensive Sciences"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research",
+      "Education"
+    ],
+    "eligibility": [
+      "You must be based at a UK research organisation eligible for STFC funding."
+    ],
+    "whatItCovers": [
+      "Delivery of STFC’s doctoral focal awards"
+    ],
+    "howToApply": [
+      "You must be based at a UK research organisation eligible for STFC funding."
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "42",
+    "slug": "UK-Obesity-Research-Institute",
+    "name": "Pre-announcement: UK Obesity Research Institute",
+    "provider": "Medical Research Council (MRC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "",
+    "deadline": "2026-11-19T16:00:00Z",
+    "daysRemaining": null,
+    "description": "Apply for funding to establish a UK Obesity Research Institute, undertaking world-leading research into the mechanistic biomedical drivers of obesity and develop targeted interventions to prevent and treat obesity and its health consequences.",
+    "fullDescription": "Applications must be led by a UK-based research organisation eligible for MRC funding.",
+    "eligibilitySnapshot": "Applications must be led by a UK-based research organisation eligible for MRC funding.",
+    "tags": [
+      "UK Obesity Research Institute",
+      "Pre-announcement"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research",
+      "Healthcare"
+    ],
+    "eligibility": [
+      "Applications must be led by a UK-based research organisation eligible for MRC funding."
+    ],
+    "whatItCovers": [
+      "Establishment of a UK Obesity Research Institute"
+    ],
+    "howToApply": [
+      "Applications must be led by a UK-based research organisation eligible for MRC funding."
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "43",
+    "slug": "DRIVE35-Scale-Up-Fund",
+    "name": "DRIVE35: Scale Up Fund",
+    "provider": "Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 150000000,
+    "currency": "£",
+    "deadline": "2026-08-15T11:00:00Z",
+    "daysRemaining": null,
+    "description": "UK registered organisations can apply for a share of up to £150 million, to create scale up manufacturing facilities for zero emission vehicle technologies.",
+    "fullDescription": "DRIVE35 (Driving Research and Investment in Vehicle Electrification) is a Department for Business and Trade led programme.",
+    "eligibilitySnapshot": "UK registered organisations",
+    "tags": [
+      "DRIVE35",
+      "Scale Up Fund",
+      "Zero Emission Vehicles"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Automotive",
+      "Research"
+    ],
+    "eligibility": [
+      "UK registered organisations"
+    ],
+    "whatItCovers": [
+      "Creation of scale up manufacturing facilities for zero emission vehicle technologies"
+    ],
+    "howToApply": [
+      "UK registered organisations"
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "44",
+    "slug": "Next-Wave-Breakthrough-Wave-1",
+    "name": "Next Wave: Breakthrough Wave 1",
+    "provider": "Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 10000000,
+    "currency": "£",
+    "deadline": "2026-08-11T11:00:00Z",
+    "daysRemaining": null,
+    "description": "UK registered businesses can apply for a share of up to £10 million for industrial research projects to explore industrial strategy aligned Createch innovation.",
+    "fullDescription": "This funding is from Innovate UK.",
+    "eligibilitySnapshot": "UK registered businesses",
+    "tags": [
+      "Next Wave",
+      "Breakthrough Wave 1",
+      "Createch Innovation"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research",
+      "Technology"
+    ],
+    "eligibility": [
+      "UK registered businesses"
+    ],
+    "whatItCovers": [
+      "Industrial research projects to explore industrial strategy aligned Createch innovation"
+    ],
+    "howToApply": [
+      "UK registered businesses"
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "45",
+    "slug": "UK-Switzerland-CR-D-Round-3",
+    "name": "UK-Switzerland CR&D Round 3",
+    "provider": "Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 3000000,
+    "currency": "£",
+    "deadline": "2026-09-03T11:00:00Z",
+    "daysRemaining": null,
+    "description": "UK registered businesses can apply for a share of up to £3 million for innovative projects in specific technology areas.",
+    "fullDescription": "You must collaborate with at least one Swiss implementation partner applying under the equivalent Swiss Innosuisse programme.",
+    "eligibilitySnapshot": "UK registered businesses",
+    "tags": [
+      "UK-Switzerland CR&D",
+      "Round 3"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research",
+      "Technology"
+    ],
+    "eligibility": [
+      "UK registered businesses"
+    ],
+    "whatItCovers": [
+      "Innovative projects in specific technology areas"
+    ],
+    "howToApply": [
+      "UK registered businesses"
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "46",
+    "slug": "UKRI-Translation-STFC-Proof-of-Concept",
+    "name": "UKRI Translation: STFC Proof of Concept",
+    "provider": "Science and Technology Facilities Council (STFC), Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 600000,
+    "currency": "£",
+    "deadline": "2026-08-26T16:00:00Z",
+    "daysRemaining": null,
+    "description": "Apply for funding to commercialise your technology or science developed from the STFC PPAN community.",
+    "fullDescription": "This scheme aims to support the PPAN community to develop technology and science towards commercialisation. You must be based at a UK research organisation eligible for STFC funding.",
+    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for STFC funding.",
+    "tags": [
+      "UKRI Translation",
+      "STFC Proof of Concept"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research",
+      "Technology"
+    ],
+    "eligibility": [
+      "You must be based at a UK research organisation eligible for STFC funding."
+    ],
+    "whatItCovers": [
+      "Commercialisation of technology or science developed from the STFC PPAN community"
+    ],
+    "howToApply": [
+      "You must be based at a UK research organisation eligible for STFC funding."
+    ],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "47",
+    "slug": "UK-Japan-Civil-Nuclear-Research-Programme-2026",
+    "name": "UK Japan Civil Nuclear Research Programme 2026",
+    "provider": "Engineering and Physical Sciences Research Council (EPSRC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 250000,
+    "amountMax": 593750,
+    "currency": "£",
+    "deadline": "2026-09-08T16:00:00Z",
+    "daysRemaining": null,
+    "description": "Apply for this jointly funded opportunity between EPSRC and the Japanese Ministry of Education, Culture, Sports, Science and Technology (MEXT) aiming to support two projects focused on the decommissioning of Fukushima and Sellafield.",
+    "fullDescription": "",
+    "eligibilitySnapshot": "",
+    "tags": [
+      "UK Japan Civil Nuclear Research Programme",
+      "2026"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "Research",
+      "Energy"
+    ],
+    "eligibility": [],
+    "whatItCovers": [
+      "Support for two projects focused on the decommissioning of Fukushima and Sellafield"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "note": "",
+    "source": "ukri"
+  },
+  {
+    "id": "48",
     "slug": "ukri-grant",
     "name": "UKRI Grant",
     "provider": "UK Research and Innovation (UKRI)",
@@ -1132,8 +1868,8 @@
     "deadline": "",
     "daysRemaining": null,
     "description": "UKRI provides funding for research and innovation projects.",
-    "fullDescription": "UKRI is a non-departmental public body that brings together seven research councils, Research England and Innovate UK. We provide funding for research and innovation projects across the UK.",
-    "eligibilitySnapshot": "Eligibility criteria not specified",
+    "fullDescription": "UKRI is a non-departmental public body that brings together seven research councils, Research England and Innovate UK under a single umbrella. We provide funding for research and innovation projects across the UK.",
+    "eligibilitySnapshot": "Eligibility criteria not specified.",
     "tags": [
       "research",
       "innovation",
@@ -1145,21 +1881,17 @@
       "research",
       "innovation"
     ],
-    "eligibility": [
-      "Eligibility criteria not specified"
-    ],
+    "eligibility": [],
     "whatItCovers": [
       "research",
       "innovation"
     ],
-    "howToApply": [
-      "Eligibility criteria not specified"
-    ],
+    "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "30",
+    "id": "49",
     "slug": "knowledge-transfer-partnership",
     "name": "Knowledge Transfer Partnership",
     "provider": "Innovate UK, Arts and Humanities Research Council (AHRC), Biotechnology and Biological Sciences Research Council (BBSRC), Economic and Social Research Council (ESRC), Engineering and Physical Sciences Research Council (EPSRC), Natural Environment Research Council (NERC), Science and Technology Facilities Council (STFC)",
@@ -1175,8 +1907,7 @@
     "fullDescription": "Knowledge Transfer Partnerships help businesses to partner with an academic organisation, research organisation or a Catapult, to employ a graduate with the skills and knowledge that can help the business to innovate and grow.",
     "eligibilitySnapshot": "",
     "tags": [
-      "knowledge transfer",
-      "partnership",
+      "knowledge transfer partnership",
       "business",
       "innovation",
       "growth"
@@ -1196,7 +1927,7 @@
     "source": "ukri"
   },
   {
-    "id": "31",
+    "id": "50",
     "slug": "return-to-research-support-bursary",
     "name": "Return to Research Support Bursary",
     "provider": "Science and Technology Facilities Council (STFC)",
@@ -1214,7 +1945,7 @@
     "tags": [
       "return to research",
       "support bursary",
-      "STFC"
+      "STFC fellowship scheme"
     ],
     "type": "Grant",
     "grantType": "Grant",
@@ -1230,7 +1961,7 @@
     "source": "ukri"
   },
   {
-    "id": "32",
+    "id": "51",
     "slug": "ukri-sbe-lead-agency-opportunity",
     "name": "UKRI-SBE Lead Agency Opportunity",
     "provider": "Arts and Humanities Research Council (AHRC), Biotechnology and Biological Sciences Research Council (BBSRC), Economic and Social Research Council (ESRC), UK Research and Innovation",
@@ -1246,9 +1977,8 @@
     "fullDescription": "Grants are funded through existing funding programmes at the relevant lead agency.",
     "eligibilitySnapshot": "",
     "tags": [
-      "UKRI-SBE",
-      "lead agency",
-      "opportunity"
+      "UKRI-SBE lead agency opportunity",
+      "collaborative proposal"
     ],
     "type": "Grant",
     "grantType": "Grant",
@@ -1256,13 +1986,15 @@
       "research"
     ],
     "eligibility": [],
-    "whatItCovers": [],
+    "whatItCovers": [
+      "collaborative proposal"
+    ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "33",
+    "id": "52",
     "slug": "collaborate-with-researchers-in-brazil",
     "name": "Collaborate with Researchers in Brazil",
     "provider": "Arts and Humanities Research Council (AHRC), Biotechnology and Biological Sciences Research Council (BBSRC), Engineering and Physical Sciences Research Council (EPSRC), Economic and Social Research Council (ESRC), Medical Research Council (MRC), Natural Environment Research Council (NERC), Science and Technology Facilities Council (STFC), UK Research and Innovation",
@@ -1278,9 +2010,8 @@
     "fullDescription": "This opportunity allows UK-based researchers and researchers in the State of São Paulo, Brazil to submit a collaborative application under existing NERC funding opportunities.",
     "eligibilitySnapshot": "",
     "tags": [
-      "collaborate",
-      "researchers",
-      "Brazil"
+      "collaborate with researchers in Brazil",
+      "NERC funding opportunities"
     ],
     "type": "Grant",
     "grantType": "Grant",
@@ -1288,13 +2019,15 @@
       "research"
     ],
     "eligibility": [],
-    "whatItCovers": [],
+    "whatItCovers": [
+      "collaborative application"
+    ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "34",
+    "id": "53",
     "slug": "collaborate-with-researchers-in-luxembourg",
     "name": "Collaborate with Researchers in Luxembourg",
     "provider": "Arts and Humanities Research Council (AHRC), Biotechnology and Biological Sciences Research Council (BBSRC), Economic and Social Research Council (ESRC), Engineering and Physical Sciences Research Council (EPSRC), Medical Research Council (MRC), Natural Environment Research Council (NERC), Science and Technology Facilities Council (STFC), UK Research and Innovation",
@@ -1306,13 +2039,12 @@
     "currency": "£",
     "deadline": "Open - no closing date",
     "daysRemaining": null,
-    "description": "This opportunity allows UK-based researchers and researchers in the UK and Luxembourg to submit a collaborative application under existing funding opportunities.",
-    "fullDescription": "This opportunity allows UK-based researchers and researchers in the UK and Luxembourg to submit a collaborative application under existing funding opportunities.",
+    "description": "This opportunity allows UK-based researchers and researchers in Luxembourg to submit a collaborative application under existing NERC funding opportunities.",
+    "fullDescription": "This opportunity allows UK-based researchers and researchers in Luxembourg to submit a collaborative application under existing NERC funding opportunities.",
     "eligibilitySnapshot": "",
     "tags": [
-      "collaborate",
-      "researchers",
-      "Luxembourg"
+      "collaborate with researchers in Luxembourg",
+      "NERC funding opportunities"
     ],
     "type": "Grant",
     "grantType": "Grant",
@@ -1320,13 +2052,15 @@
       "research"
     ],
     "eligibility": [],
-    "whatItCovers": [],
+    "whatItCovers": [
+      "collaborative application"
+    ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "35",
+    "id": "54",
     "slug": "work-with-us-based-researchers-on-environmental-science",
     "name": "Work with US-based Researchers on Environmental Science",
     "provider": "Natural Environment Research Council (NERC)",
@@ -1342,8 +2076,8 @@
     "fullDescription": "Apply for funding to work with US-based researchers on an environmental science application.",
     "eligibilitySnapshot": "",
     "tags": [
-      "environmental science",
-      "US-based researchers"
+      "work with US-based researchers",
+      "environmental science"
     ],
     "type": "Grant",
     "grantType": "Grant",
@@ -1351,13 +2085,15 @@
       "research"
     ],
     "eligibility": [],
-    "whatItCovers": [],
+    "whatItCovers": [
+      "environmental science application"
+    ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "36",
+    "id": "55",
     "slug": "collaborate-with-researchers-in-norway",
     "name": "Collaborate with Researchers in Norway",
     "provider": "UK Research and Innovation, Arts and Humanities Research Council (AHRC), Engineering and Physical Sciences Research Council (EPSRC), Economic and Social Research Council (ESRC), Medical Research Council (MRC), Natural Environment Research Council (NERC)",
@@ -1369,13 +2105,12 @@
     "currency": "£",
     "deadline": "Open - no closing date",
     "daysRemaining": null,
-    "description": "This opportunity allows UK-based researchers and researchers in the UK and Norway to submit a collaborative application under existing council programmes.",
-    "fullDescription": "This opportunity allows UK-based researchers and researchers in the UK and Norway to submit a collaborative application under existing council programmes.",
+    "description": "This opportunity allows UK-based researchers and researchers in Norway to submit a collaborative application under existing NERC funding opportunities.",
+    "fullDescription": "This opportunity allows UK-based researchers and researchers in Norway to submit a collaborative application under existing NERC funding opportunities.",
     "eligibilitySnapshot": "",
     "tags": [
-      "collaborate",
-      "researchers",
-      "Norway"
+      "collaborate with researchers in Norway",
+      "NERC funding opportunities"
     ],
     "type": "Grant",
     "grantType": "Grant",
@@ -1383,13 +2118,15 @@
       "research"
     ],
     "eligibility": [],
-    "whatItCovers": [],
+    "whatItCovers": [
+      "collaborative application"
+    ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "37",
+    "id": "56",
     "slug": "researching-me-cfs-priority-area",
     "name": "Researching ME/CFS Priority Area",
     "provider": "Medical Research Council (MRC)",
@@ -1405,8 +2142,8 @@
     "fullDescription": "Apply for funding to research myalgic encephalomyelitis/chronic fatigue syndrome, also known as ME/CFS.",
     "eligibilitySnapshot": "",
     "tags": [
-      "ME/CFS",
-      "research"
+      "researching ME/CFS",
+      "priority area"
     ],
     "type": "Fellowship, Grant",
     "grantType": "Fellowship, Grant",
@@ -1414,13 +2151,15 @@
       "research"
     ],
     "eligibility": [],
-    "whatItCovers": [],
+    "whatItCovers": [
+      "research myalgic encephalomyelitis/chronic fatigue syndrome"
+    ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "38",
+    "id": "57",
     "slug": "esrc-responsive-mode-working-with-brazilian-researchers-round-two",
     "name": "ESRC Responsive Mode: Working with Brazilian Researchers Round Two",
     "provider": "Economic and Social Research Council (ESRC)",
@@ -1436,9 +2175,8 @@
     "fullDescription": "You can apply for funding to work with overseas researchers in the State of São Paulo, Brazil.",
     "eligibilitySnapshot": "",
     "tags": [
-      "ESRC",
-      "Brazil",
-      "research"
+      "ESRC responsive mode",
+      "working with Brazilian researchers"
     ],
     "type": "Grant",
     "grantType": "Grant",
@@ -1446,353 +2184,514 @@
       "research"
     ],
     "eligibility": [],
-    "whatItCovers": [],
+    "whatItCovers": [
+      "working with overseas researchers"
+    ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "39",
-    "slug": "ofgem-strategic-innovation-fund-round-5-discovery-c6",
-    "name": "Ofgem Strategic Innovation Fund round 5 discovery C6",
+    "id": "58",
+    "slug": "uk-centre-for-quantum-commercialisation-skills",
+    "name": "Centre for Quantum Commercialisation Skills",
+    "provider": "Engineering and Physical Sciences Research Council (EPSRC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 10000000,
+    "amountMax": 11300000,
+    "currency": "£",
+    "deadline": "2026-07-07T16:00:00.000Z",
+    "daysRemaining": null,
+    "description": "Apply for funding to establish a UK centre for quantum commercialisation skills that will provide opportunities for researchers to develop commercialisation skills, engage with industry, and explore new career pathways. You must be based at a UK research organisation eligible for EPSRC funding.",
+    "fullDescription": "Apply for funding to establish a UK centre for quantum commercialisation skills that will provide opportunities for researchers to develop commercialisation skills, engage with industry, and explore new career pathways. You must be based at a UK research organisation eligible for EPSRC funding.",
+    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for EPSRC funding.",
+    "tags": [
+      "quantum",
+      "commercialisation",
+      "skills"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "quantum",
+      "commercialisation"
+    ],
+    "eligibility": [
+      "You must be based at a UK research organisation eligible for EPSRC funding."
+    ],
+    "whatItCovers": [
+      "commercialisation skills",
+      "industry engagement",
+      "career pathways"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "59",
+    "slug": "establishing-a-uk-ultra-high-field-nmr-national-research-facility",
+    "name": "Establishing a UK Ultra-high Field NMR National Research Facility",
+    "provider": "Engineering and Physical Sciences Research Council (EPSRC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 7250000,
+    "amountMax": 7250000,
+    "currency": "£",
+    "deadline": "2026-07-07T16:00:00.000Z",
+    "daysRemaining": null,
+    "description": "Apply for funding to provide a UK Ultra-high Field NMR National Research Facility (invite only). You must be based at a UK research organisation eligible for EPSRC funding. EPSRC will support the facility with a five-year grant of up to £7.25 million, based on meeting a minimum overall cost recovery target of 40% FEC.",
+    "fullDescription": "Apply for funding to provide a UK Ultra-high Field NMR National Research Facility (invite only). You must be based at a UK research organisation eligible for EPSRC funding. EPSRC will support the facility with a five-year grant of up to £7.25 million, based on meeting a minimum overall cost recovery target of 40% FEC.",
+    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for EPSRC funding.",
+    "tags": [
+      "ultra-high field",
+      "NMR",
+      "national research facility"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "ultra-high field",
+      "NMR"
+    ],
+    "eligibility": [
+      "You must be based at a UK research organisation eligible for EPSRC funding."
+    ],
+    "whatItCovers": [
+      "UK Ultra-high Field NMR National Research Facility"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "60",
+    "slug": "growth-cohorts-next-generation-low-carbon-concrete-cohort-entry",
+    "name": "Growth cohorts: next generation low carbon concrete cohort entry",
     "provider": "Innovate UK",
     "country": "United Kingdom",
     "countryCode": "gb",
     "region": "",
     "amountMin": null,
-    "amountMax": 30000000,
+    "amountMax": 11500000,
     "currency": "£",
-    "deadline": "2026-06-24T11:00:00Z",
+    "deadline": "2026-07-08T11:00:00.000Z",
     "daysRemaining": null,
-    "description": "Organisations can apply for a share of up to £30 million exclusive of VAT, for collaborative Discovery Phase Projects that meet the round 5 challenges.",
-    "fullDescription": "Organisations can apply for a share of up to £30 million exclusive of VAT, for collaborative Discovery Phase Projects that meet the round 5 challenges. This funding is from the Ofgem Strategic Innovation Fund.",
-    "eligibilitySnapshot": "This competition is open to collaborations only.",
+    "description": "UK registered businesses can apply to join a cohort of ambitious businesses. These businesses will develop solutions to decarbonise concrete and access funding and sector-specific support, to develop and deliver innovation and growth plans.",
+    "fullDescription": "UK registered businesses can apply to join a cohort of ambitious businesses. These businesses will develop solutions to decarbonise concrete and access funding and sector-specific support, to develop and deliver innovation and growth plans.",
+    "eligibilitySnapshot": "UK registered businesses can apply.",
     "tags": [
-      "ofgem",
-      "strategic",
-      "innovation",
-      "fund",
-      "discovery",
-      "c6"
+      "growth",
+      "cohorts",
+      "low carbon concrete"
     ],
     "type": "Grant",
     "grantType": "Grant",
     "industry": [
-      "Energy"
+      "growth",
+      "cohorts",
+      "low carbon concrete"
     ],
     "eligibility": [
-      "Must be an Ofgem licensed electricity or gas distribution network, transmission operator, or Electricity System Operator"
+      "UK registered businesses can apply."
     ],
     "whatItCovers": [
-      "Collaborative Discovery Phase Projects"
+      "solutions to decarbonise concrete",
+      "funding and sector-specific support"
     ],
-    "howToApply": [
-      "See the full opportunity details on the Innovation Funding Service"
-    ],
-    "applicationUrl": "https://www.ukri.org/opportunity/ofgem-strategic-innovation-fund-round-5-discovery-c6/",
+    "howToApply": [],
+    "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "40",
-    "slug": "ofgem-strategic-innovation-fund-discovery-c6",
-    "name": "Ofgem Strategic Innovation Fund Discovery C6",
+    "id": "61",
+    "slug": "cfi-improving-outcomes-for-children-experiencing-homelessness",
+    "name": "CfI Improving Outcomes for Children Experiencing Homelessness",
+    "provider": "UK Research and Innovation",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 2000000,
+    "amountMax": 2000000,
+    "currency": "£",
+    "deadline": "2026-07-08T11:00:00.000Z",
+    "daysRemaining": null,
+    "description": "Organisations can apply for a share of £2 million, inclusive of VAT, to develop innovative interventions, technologies, and frameworks that are designed to support children and families experiencing homelessness.",
+    "fullDescription": "Organisations can apply for a share of £2 million, inclusive of VAT, to develop innovative interventions, technologies, and frameworks that are designed to support children and families experiencing homelessness.",
+    "eligibilitySnapshot": "Organisations can apply.",
+    "tags": [
+      "children",
+      "homelessness",
+      "innovative interventions"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "children",
+      "homelessness"
+    ],
+    "eligibility": [
+      "Organisations can apply."
+    ],
+    "whatItCovers": [
+      "innovative interventions",
+      "technologies",
+      "frameworks"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "62",
+    "slug": "adopt-facilitator-support-grant-round-9",
+    "name": "ADOPT facilitator support grant: round 9",
+    "provider": "Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 2500,
+    "amountMax": 2500,
+    "currency": "£",
+    "deadline": "2026-07-08T11:00:00.000Z",
+    "daysRemaining": null,
+    "description": "Farming, growing or forestry businesses based in England can apply for a grant of £2,500, to engage an external project facilitator to support the development of a full ADOPT grant application.",
+    "fullDescription": "Farming, growing or forestry businesses based in England can apply for a grant of £2,500, to engage an external project facilitator to support the development of a full ADOPT grant application.",
+    "eligibilitySnapshot": "Farming, growing or forestry businesses based in England can apply.",
+    "tags": [
+      "ADOPT",
+      "facilitator",
+      "grant"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "farming",
+      "growing",
+      "forestry"
+    ],
+    "eligibility": [
+      "Farming, growing or forestry businesses based in England can apply."
+    ],
+    "whatItCovers": [
+      "external project facilitator",
+      "full ADOPT grant application"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "63",
+    "slug": "scaling-supply-chains-for-quantum-enabled-sensing-and-pnt",
+    "name": "Scaling Supply Chains for Quantum Enabled Sensing and PNT",
     "provider": "Innovate UK",
     "country": "United Kingdom",
     "countryCode": "gb",
     "region": "",
     "amountMin": null,
-    "amountMax": 30000000,
+    "amountMax": 32800000,
     "currency": "£",
-    "deadline": "2026-06-24T11:00:00Z",
+    "deadline": "2026-07-08T11:00:00.000Z",
     "daysRemaining": null,
-    "description": "Organisations can apply for a share of up to £30 million exclusive of VAT, for collaborative Discovery Phase Projects that meet the Innovation Challenges.",
-    "fullDescription": "Organisations can apply for a share of up to £30 million exclusive of VAT, for collaborative Discovery Phase Projects that meet the Innovation Challenges. This funding is from the Ofgem Strategic Innovation Fund.",
-    "eligibilitySnapshot": "This competition is open to collaborations only.",
+    "description": "UK registered organisations can apply for a share of up to £32.8 million for collaborations developing the supply chain for quantum enabled sensing.",
+    "fullDescription": "UK registered organisations can apply for a share of up to £32.8 million for collaborations developing the supply chain for quantum enabled sensing.",
+    "eligibilitySnapshot": "UK registered organisations can apply.",
     "tags": [
-      "ofgem",
-      "strategic",
-      "innovation",
-      "fund",
-      "discovery",
-      "c6"
+      "quantum",
+      "enabled",
+      "sensing"
     ],
     "type": "Grant",
     "grantType": "Grant",
     "industry": [
-      "Energy"
+      "quantum",
+      "enabled",
+      "sensing"
     ],
     "eligibility": [
-      "Must be an Ofgem licensed electricity or gas distribution network, transmission operator, or National Electricity System Operator"
+      "UK registered organisations can apply."
     ],
     "whatItCovers": [
-      "Collaborative Discovery Phase Projects"
-    ],
-    "howToApply": [
-      "See the full opportunity details on the Innovation Funding Service"
-    ],
-    "applicationUrl": "https://www.ukri.org/opportunity/ofgem-strategic-innovation-fund-discovery-c6/",
-    "source": "ukri"
-  },
-  {
-    "id": "41",
-    "slug": "creative-industries-clusters-round-2",
-    "name": "Creative Industries Clusters round 2",
-    "provider": "Arts and Humanities Research Council (AHRC)",
-    "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "UK",
-    "amountMin": null,
-    "amountMax": 6750000,
-    "currency": "£",
-    "deadline": "2026-07-22T16:00:00Z",
-    "daysRemaining": null,
-    "description": "Apply for funding to deliver a Creative Industries Cluster to address a challenge for the creative industries in a specific geography, sub-sector or both.",
-    "fullDescription": "Clusters should focus on regional economic growth through applied Research & Development (R&D). You must be based at a UK research organisation eligible for AHRC funding.",
-    "eligibilitySnapshot": "Must be based at a UK research organisation eligible for AHRC funding",
-    "tags": [
-      "creative industries",
-      "clusters",
-      "research",
-      "development"
-    ],
-    "type": "Grant",
-    "grantType": "Grant",
-    "industry": [
-      "creative industries"
-    ],
-    "eligibility": [
-      "Must be based at a UK research organisation eligible for AHRC funding"
-    ],
-    "whatItCovers": [
-      "Regional economic growth through applied Research & Development (R&D)"
-    ],
-    "howToApply": [
-      "Apply for funding"
-    ],
-    "applicationUrl": "https://www.ukri.org/councils/ahrc/",
-    "source": "ukri"
-  },
-  {
-    "id": "42",
-    "slug": "r-d-map-creative-content-exchange-pilot-early-adopters-fund",
-    "name": "R&D MAP Creative Content Exchange pilot: Early Adopters fund",
-    "provider": "Arts and Humanities Research Council (AHRC)",
-    "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "UK",
-    "amountMin": null,
-    "amountMax": 125000,
-    "currency": "£",
-    "deadline": "2026-06-30T16:00:00Z",
-    "daysRemaining": null,
-    "description": "Apply for funding support to accelerate onboarding of early content providers to the Creative Content Exchange (CCE) platform by May 2027.",
-    "fullDescription": "The CCE Challenge is developing a platform aimed at creating a trusted marketplace for selling, buying and licensing digitised cultural and creative assets.",
-    "eligibilitySnapshot": "Must be based at a UK research organisation eligible for AHRC funding",
-    "tags": [
-      "creative content exchange",
-      "early adopters",
-      "research",
-      "development"
-    ],
-    "type": "Grant",
-    "grantType": "Grant",
-    "industry": [
-      "creative industries"
-    ],
-    "eligibility": [
-      "Must be based at a UK research organisation eligible for AHRC funding"
-    ],
-    "whatItCovers": [
-      "Accelerating onboarding of early content providers to the Creative Content Exchange (CCE) platform"
-    ],
-    "howToApply": [
-      "Apply for funding"
-    ],
-    "applicationUrl": "https://www.ukri.org/councils/ahrc/",
-    "source": "ukri"
-  },
-  {
-    "id": "43",
-    "slug": "total-fund-creative-industries-clusters-round-2",
-    "name": "Total fund: Creative Industries Clusters round 2",
-    "provider": "Arts and Humanities Research Council (AHRC)",
-    "country": "United Kingdom",
-    "countryCode": "gb",
-    "region": "UK",
-    "amountMin": null,
-    "amountMax": 27000000,
-    "currency": "£",
-    "deadline": null,
-    "daysRemaining": null,
-    "description": "Total fund: £27,000,000",
-    "fullDescription": "Total fund: £27,000,000",
-    "eligibilitySnapshot": "",
-    "tags": [
-      "creative industries",
-      "clusters",
-      "research",
-      "development"
-    ],
-    "type": "Grant",
-    "grantType": "Grant",
-    "industry": [
-      "creative industries"
-    ],
-    "eligibility": [],
-    "whatItCovers": [],
-    "howToApply": [],
-    "applicationUrl": "",
-    "source": "ukri"
-  },
-  {
-    "id": "44",
-    "slug": "doctoral-focal-award-plus",
-    "name": "Doctoral Focal Award Plus",
-    "provider": "Economic and Social Research Council (ESRC)",
-    "country": "United Kingdom",
-    "countryCode": "uk",
-    "region": "",
-    "amountMin": null,
-    "amountMax": 5750000,
-    "currency": "£",
-    "deadline": "2026-05-22T00:00:00Z",
-    "daysRemaining": null,
-    "description": "We will be commissioning one doctoral focal award plus to develop a cadre of social scientists across career stages with the skills needed to use data-driven research approaches in innovative ways.",
-    "fullDescription": "You must be based at a UK research organisation eligible for ESRC funding.",
-    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for ESRC funding.",
-    "tags": [
-      "doctoral",
-      "focal",
-      "award",
-      "plus",
-      "data-driven",
-      "research"
-    ],
-    "type": "Grant",
-    "grantType": "Grant",
-    "industry": [
-      "social sciences"
-    ],
-    "eligibility": [
-      "You must be based at a UK research organisation eligible for ESRC funding."
-    ],
-    "whatItCovers": [
-      "develop a cadre of social scientists across career stages with the skills needed to use data-driven research approaches in innovative ways"
+      "supply chain for quantum enabled sensing"
     ],
     "howToApply": [],
     "applicationUrl": "",
     "source": "ukri"
   },
   {
-    "id": "45",
-    "slug": "gambling-harms-research-grants",
-    "name": "Gambling Harms Research Grants",
-    "provider": "Arts and Humanities Research Council (AHRC), Economic and Social Research Council (ESRC), Medical Research Council (MRC), UK Research and Innovation",
+    "id": "64",
+    "slug": "robotics-adoption-central-convening-body-summer-2026",
+    "name": "Robotics Adoption Central Convening Body summer 2026",
+    "provider": "Innovate UK",
     "country": "United Kingdom",
-    "countryCode": "uk",
+    "countryCode": "gb",
     "region": "",
     "amountMin": null,
     "amountMax": 2000000,
     "currency": "£",
-    "deadline": "2026-07-17T16:00:00Z",
+    "deadline": "2026-07-08T11:00:00.000Z",
     "daysRemaining": null,
-    "description": "Apply for funding that deepens understanding or supports solutions for the prevention and treatment of gambling-related harms.",
-    "fullDescription": "To lead an application, you must be based at a research organisation eligible for UKRI funding.",
-    "eligibilitySnapshot": "To lead an application, you must be based at a research organisation eligible for UKRI funding.",
+    "description": "UK registered organisations can apply for a share of up to £2 million for creating a central convening body to coordinate the robotics adoption hubs.",
+    "fullDescription": "UK registered organisations can apply for a share of up to £2 million for creating a central convening body to coordinate the robotics adoption hubs.",
+    "eligibilitySnapshot": "UK registered organisations can apply.",
     "tags": [
-      "gambling",
-      "harm",
+      "robotics",
+      "adoption",
+      "central convening body"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "robotics",
+      "adoption"
+    ],
+    "eligibility": [
+      "UK registered organisations can apply."
+    ],
+    "whatItCovers": [
+      "central convening body",
+      "robotics adoption hubs"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "65",
+    "slug": "developmental-pathway-funding-scheme-invited-stage-two",
+    "name": "Developmental pathway funding scheme: invited stage two",
+    "provider": "Medical Research Council (MRC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 26000000,
+    "currency": "£",
+    "deadline": "2026-07-08T16:00:00.000Z",
+    "daysRemaining": null,
+    "description": "Apply for funding to develop and test novel therapeutics, medical devices, diagnostics and other interventions. You must be employed at a research organisation eligible for Medical Research Council (MRC) funding.",
+    "fullDescription": "Apply for funding to develop and test novel therapeutics, medical devices, diagnostics and other interventions. You must be employed at a research organisation eligible for Medical Research Council (MRC) funding.",
+    "eligibilitySnapshot": "You must be employed at a research organisation eligible for Medical Research Council (MRC) funding.",
+    "tags": [
+      "developmental pathway",
+      "funding scheme"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "developmental pathway",
+      "funding scheme"
+    ],
+    "eligibility": [
+      "You must be employed at a research organisation eligible for Medical Research Council (MRC) funding."
+    ],
+    "whatItCovers": [
+      "novel therapeutics",
+      "medical devices",
+      "diagnostics"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "66",
+    "slug": "particle-physics-experiment-consolidated-grants-2026",
+    "name": "Particle Physics Experiment Consolidated Grants 2026",
+    "provider": "Science and Technology Facilities Council (STFC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": null,
+    "amountMax": null,
+    "currency": "",
+    "deadline": "2026-07-09T16:00:00.000Z",
+    "daysRemaining": null,
+    "description": "This grant round will consider grant requests to support particle physics experiment research. You must be based at a UK research organisation eligible for Science and Technology Facilities Council (STFC) funding and a member of the UK particle physics community.",
+    "fullDescription": "This grant round will consider grant requests to support particle physics experiment research. You must be based at a UK research organisation eligible for Science and Technology Facilities Council (STFC) funding and a member of the UK particle physics community.",
+    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for Science and Technology Facilities Council (STFC) funding and a member of the UK particle physics community.",
+    "tags": [
+      "particle physics",
+      "experiment",
+      "consolidated grants"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "particle physics",
+      "experiment"
+    ],
+    "eligibility": [
+      "You must be based at a UK research organisation eligible for Science and Technology Facilities Council (STFC) funding and a member of the UK particle physics community."
+    ],
+    "whatItCovers": [
+      "particle physics experiment research"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "67",
+    "slug": "bbsrc-brazil-pump-priming-award-fappa",
+    "name": "BBSRC Brazil pump-priming award (FAPPA)",
+    "provider": "Biotechnology and Biological Sciences Research Council (BBSRC)",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "",
+    "amountMin": 35000,
+    "amountMax": 35000,
+    "currency": "£",
+    "deadline": "2026-07-14T16:00:00.000Z",
+    "daysRemaining": null,
+    "description": "This award is for BBSRC-funded research groups to pump-prime interactions with FAPESP scientists in Brazil. Applications must be made by a project lead who is currently in receipt of BBSRC research funding.",
+    "fullDescription": "This award is for BBSRC-funded research groups to pump-prime interactions with FAPESP scientists in Brazil. Applications must be made by a project lead who is currently in receipt of BBSRC research funding.",
+    "eligibilitySnapshot": "Applications must be made by a project lead who is currently in receipt of BBSRC research funding.",
+    "tags": [
+      "BBSRC",
+      "Brazil",
+      "pump-priming award"
+    ],
+    "type": "Grant",
+    "grantType": "Grant",
+    "industry": [
+      "BBSRC",
+      "Brazil"
+    ],
+    "eligibility": [
+      "Applications must be made by a project lead who is currently in receipt of BBSRC research funding."
+    ],
+    "whatItCovers": [
+      "interactions with FAPESP scientists in Brazil"
+    ],
+    "howToApply": [],
+    "applicationUrl": "",
+    "source": "ukri"
+  },
+  {
+    "id": "68",
+    "slug": "stfc-proof-of-concept",
+    "name": "Proof of Concept",
+    "provider": "Science and Technology Facilities Council (STFC), Innovate UK",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "region": "UK-wide",
+    "amountMin": null,
+    "amountMax": 600000,
+    "currency": "£",
+    "deadline": "2026-08-26T16:00:00+01:00",
+    "daysRemaining": null,
+    "description": "Apply for funding to commercialise your technology or science developed from the STFC PPAN community. Funding worth £600,000.",
+    "fullDescription": "This scheme aims to support the PPAN community to develop technology and science towards commercialisation. You must be based at a UK research organisation eligible for STFC funding.",
+    "eligibilitySnapshot": "You must be based at a UK research organisation eligible for STFC funding.",
+    "tags": [
+      "commercialisation",
+      "STFC PPAN community"
+    ],
+    "type": "Grant",
+    "grantType": "Proof of Concept",
+    "industry": [
+      "Academia",
+      "Industry"
+    ],
+    "eligibility": [
+      "You must be based at a UK research organisation eligible for STFC funding."
+    ],
+    "whatItCovers": [
+      "Technology and science commercialisation"
+    ],
+    "howToApply": [
+      "Apply for funding to commercialise your technology or science developed from the STFC PPAN community."
+    ],
+    "applicationUrl": "https://www.ukri.org/councils/stfc/",
+    "amountNote": "Maximum award: £600,000",
+    "source": "ukri"
+  },
+  {
+    "id": "69",
+    "slug": "uk-obesity-research-institute",
+    "name": "UK Obesity Research Institute",
+    "provider": "Medical Research Council (MRC)",
+    "country": "United Kingdom",
+    "countryCode": "uk",
+    "region": "",
+    "amountMin": null,
+    "amountMax": 60000000,
+    "currency": "£",
+    "deadline": "2026-11-19T16:00:00Z",
+    "daysRemaining": null,
+    "description": "Funding available up to £60 million (80% full economic cost) for up to seven years.",
+    "fullDescription": "The funding available is up to £60 million, and for seven years duration, with the potential to renew.",
+    "eligibilitySnapshot": "Eligible research organisations with standard eligibility.",
+    "tags": [
+      "obesity",
       "research",
-      "grants"
+      "funding"
     ],
     "type": "Grant",
     "grantType": "Grant",
     "industry": [
-      "social sciences"
+      "health",
+      "life sciences"
     ],
     "eligibility": [
-      "To lead an application, you must be based at a research organisation eligible for UKRI funding."
+      "have the relevant expertise and experience to lead or contribute to an internationally leading investment of significant scale",
+      "show how you will strategically direct the investment, be actively engaged in the work and support a positive research culture",
+      "focus your application on mechanistic research tackling important multidisciplinary health challenges related to obesity"
     ],
     "whatItCovers": [
-      "deepens understanding or supports solutions for the prevention and treatment of gambling-related harms"
+      "research into the biological origins, prevention, treatment, and health consequences of obesity",
+      "elucidating underlying mechanistic pathways"
     ],
-    "howToApply": [],
+    "howToApply": [
+      "Discussion with the Medical Research Council",
+      "Contact us at obesityresearchopp@mrc.ukri.org"
+    ],
     "applicationUrl": "",
+    "note": "Funding of this opportunity is subject to approval of a full business case.",
     "source": "ukri"
   },
   {
-    "id": "46",
-    "slug": "knowledge-transfer-partnership-ktp-2026-to-2027-round-2",
-    "name": "Knowledge Transfer Partnership (KTP): 2026 to 2027 round 2",
-    "provider": "Innovate UK",
+    "id": "70",
+    "slug": "ukri-translation-impact-acceleration-accounts-2027",
+    "name": "UKRI Translation: Impact Acceleration Accounts 2027",
+    "provider": "Medical Research Council (MRC)",
     "country": "United Kingdom",
     "countryCode": "uk",
     "region": "",
     "amountMin": null,
-    "amountMax": 10000000,
+    "amountMax": null,
     "currency": "£",
-    "deadline": "2026-06-24T11:00:00Z",
+    "deadline": "",
     "daysRemaining": null,
-    "description": "UK registered academic institutions, RTOs or Catapults can apply for a share of up to £10 million to fund innovation projects with businesses.",
-    "fullDescription": "To lead a project your organisation must: be a UK registered higher education or further education institution, research and technology organisation (RTO) or Catapult collaborate with a UK registered business of any size with two or more full time employees The business must contribute to the project’s costs.",
-    "eligibilitySnapshot": "To lead a project your organisation must: be a UK registered higher education or further education institution, research and technology organisation (RTO) or Catapult collaborate with a UK registered business of any size with two or more full time employees The business must contribute to the project’s costs.",
+    "description": "Apply for UKRI impact acceleration accounts (IAAs) for institutional‑level, flexible, early-stage funding that helps organisations accelerate research impact into real world benefits.",
+    "fullDescription": "Apply for UKRI impact acceleration accounts (IAAs) for institutional‑level, flexible, early-stage funding that helps organisations accelerate research impact into real world benefits. This funding opportunity harmonises IAA programmes across the following research councils: AHRC EPSRC MRC STFC",
+    "eligibilitySnapshot": "This competition is open to single applicants and collaborations.",
     "tags": [
-      "knowledge",
-      "transfer",
-      "partnership",
-      "ktp"
+      "translation",
+      "impact",
+      "acceleration"
     ],
     "type": "Grant",
     "grantType": "Grant",
     "industry": [
-      "innovation"
+      "research"
     ],
     "eligibility": [
-      "To lead a project your organisation must: be a UK registered higher education or further education institution, research and technology organisation (RTO) or Catapult collaborate with a UK registered business of any size with two or more full time employees The business must contribute to the project’s costs."
+      "This competition is open to single applicants and collaborations."
     ],
     "whatItCovers": [
-      "fund innovation projects with businesses"
+      "institutional‑level, flexible, early-stage funding",
+      "accelerate research impact into real world benefits"
     ],
-    "howToApply": [],
-    "applicationUrl": "",
-    "source": "ukri"
-  },
-  {
-    "id": "47",
-    "slug": "accelerated-knowledge-transfer-partnerships-6-akt-6",
-    "name": "Accelerated Knowledge Transfer Partnerships 6 (AKT 6)",
-    "provider": "Innovate UK",
-    "country": "United Kingdom",
-    "countryCode": "uk",
-    "region": "",
-    "amountMin": null,
-    "amountMax": 2500000,
-    "currency": "£",
-    "deadline": "2026-07-15T11:30:00Z",
-    "daysRemaining": null,
-    "description": "UK registered academic institutions, RTOs or Catapults can apply for a share of up to £2.5 million to fund innovation projects with businesses.",
-    "fullDescription": "To lead a project your organisation must: be a UK registered higher education or further education institution, research and technology organisation (RTO) or Catapult collaborate with a UK registered business of any size with four or more full time employees The business must contribute a minimum of 10% to the project’s costs.",
-    "eligibilitySnapshot": "To lead a project your organisation must: be a UK registered higher education or further education institution, research and technology organisation (RTO) or Catapult collaborate with a UK registered business of any size with four or more full time employees The business must contribute a minimum of 10% to the project’s costs.",
-    "tags": [
-      "accelerated",
-      "knowledge",
-      "transfer",
-      "partnerships",
-      "akt"
+    "howToApply": [
+      "This competition is open to single applicants and collaborations."
     ],
-    "type": "Grant",
-    "grantType": "Grant",
-    "industry": [
-      "innovation"
-    ],
-    "eligibility": [
-      "To lead a project your organisation must: be a UK registered higher education or further education institution, research and technology organisation (RTO) or Catapult collaborate with a UK registered business of any size with four or more full time employees The business must contribute a minimum of 10% to the project’s costs."
-    ],
-    "whatItCovers": [
-      "fund innovation projects with businesses"
-    ],
-    "howToApply": [],
-    "applicationUrl": "",
+    "applicationUrl": "https://www.ukri.org/opportunity/2445-drive35-scale-up-fund/",
     "source": "ukri"
   }
 ]
